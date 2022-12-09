@@ -1,6 +1,7 @@
 ***
-- 👋 Salutations, I’m @AvaAvarai, welcome to my github page!
-- 👀 My special interests are computers, mathematics, cybersecurity, old literature, and poetry
-- 🌱 I’m currently studying in a computer science and applied mathematics double major at Central Washington University
-- 💞️ I’m looking to collaborate on open source software solutions
+- 👋 Salutations friend, my name is Alice Williams (@AvaAvarai).
+- 👀 My special interests are cybersecurity, autamata theory, and computational provability.
+- 🌱 I’m studying computer science and applied mathematics at Central Washington University.
+- 💞️ I’m open to collaboratation on any open source copy-left software solutions.
+- :computer: Formerly I was a server admin, web-developer, and full-stack engineer, currently I'm a comptuer science teaching assistant.
 ***
