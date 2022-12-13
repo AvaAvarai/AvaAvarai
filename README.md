@@ -4,4 +4,4 @@
 - 🌱 I study computer science and applied mathematics at Central Washington University in a double major.
 - 💞️ I’m open to collaboratation on any open-source software solutions related to my personal interests.
 - :computer: I have worked as a server administrator, a web-developer, and a full-stack engineer.
-- :writing_hand: Currently I'm a student again and a computer science teaching assistant.
+- :writing_hand: Currently I am a student again and a computer science teaching assistant.
