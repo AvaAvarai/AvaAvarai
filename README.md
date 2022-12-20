@@ -5,3 +5,4 @@
 - 💞️ I’m open to collaboratation on any open-source software solutions related to my personal interests.
 - :computer: I have worked as a server administrator, a web-developer, and a full-stack engineer.
 - :writing_hand: Currently I am a student again and a computer science teaching assistant.
+- :microscope: I am actively conducting academic research in cybersecurity education.
