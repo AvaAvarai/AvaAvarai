@@ -1,5 +1,5 @@
 - 👋 Salutations friend, my name is Alice Williams (@AvaAvarai). 
-- 👀 My interests are in cybersecurity, operating systems, programming language design, and computer architechture.
+- 👀 My interests are in cybersecurity, operating systems, programming language design, computer architechture, and graphics programming.
 - 🌱 I study computer science and applied mathematics in a double major at Central Washington University.
 - 💞️ I’m open to collaboratation on any open-source software solutions related to my personal interests.
 - :computer: I have worked as a server administrator, a web-developer, and a full-stack engineer.
