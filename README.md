@@ -4,4 +4,4 @@
 - 💞️ I am always open to collaboratation on any open-source software solutions related to my personal interests.
 - :computer: I have worked as a server administrator, a web-developer, and a full-stack engineer.
 - :microscope: Currently I am a student again and a student researcher in the CWU Visual Knowledge Discovery and Imaging Lab.
-- :writing_hand: I am also helping to conduct undergraduate academic research in cybersecurity education cloud infrastructure.
+- :writing_hand: I am also helping to conduct undergraduate research in cybersecurity education cloud infrastructure.
