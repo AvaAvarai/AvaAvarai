@@ -1,6 +1,6 @@
 - 👋 Salutations friend, my name is Alice Williams (@AvaAvarai). 
 - 👀 My interests are in operating systems, programming language design, and graphics programming.
-- 🌱 I study computer science and applied mathematics in a double major at Central Washington University.
+- 🌱 I'm studying for my undergraduate degree in computer science and applied mathematics at Central Washington University.
 - 💞️ I am always open to collaboratation on any open-source software solutions related to my personal interests.
 - :computer: I have worked as a server administrator, a web-developer, and a full-stack engineer.
 - :microscope: Currently I am a student again and a student researcher in the CWU Visual Knowledge Discovery and Imaging Lab.
