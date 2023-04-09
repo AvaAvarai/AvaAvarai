@@ -6,4 +6,4 @@
 - :microscope: Student researcher with CWU Visual Knowledge Discovery and Imaging Lab.
 - :writing_hand: Conducting research in cybersecurity education cloud infrastructure.
 
-Happy coding, may the odds forever be in your favor!
+:woman_technologist: Happy coding, may the odds forever be in your favor!
