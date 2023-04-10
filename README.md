@@ -1,4 +1,4 @@
-- 👋 Salutations friend, my name is Alice Williams (@AvaAvarai)
+- 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), here is a little about me...
 - 👀 Interests include operating systems & kernel dev, programming language hacking, and graphics programming.
 - 🌱 Pursuing double undergraduate degree in computer science & applied mathematics at Central WA University.
 - :computer: Previous work as a server administrator, a web-developer, a full-stack engineer, and a CS tutor.
