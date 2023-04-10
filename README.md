@@ -1,4 +1,4 @@
-- 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), here is a little about me...
+- 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), welcome to my GitHub page!
 - 👀 Interests include operating systems & kernel dev, programming language hacking, and graphics programming.
 - 🌱 Pursuing double undergraduate degree in computer science & applied mathematics at Central WA University.
 - :computer: Former server administrator, web-developer, full-stack engineer, and Computer Science teaching assistant.
