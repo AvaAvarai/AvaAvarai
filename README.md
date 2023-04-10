@@ -1,5 +1,5 @@
 - 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), welcome to my GitHub page!
-- 👀 Interested im operating systems & kernel development, programming language hacking, and graphics programming.
+- 👀 Interested im operating systems, kernels, programming languages, and graphics programming.
 - 🌱 Pursuing double undergraduate degree in computer science & applied mathematics at Central WA University.
 - :computer: Former server administrator, web-developer, full-stack engineer, and Computer Science teaching assistant.
 - :microscope: Student research assistant in Visual Knowledge Discovery and Imaging Lab with Dr. Kovalerchuk.
