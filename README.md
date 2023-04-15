@@ -4,7 +4,7 @@
 - :computer: Former server administrator, web-developer, full-stack engineer, and Computer Science teaching assistant.
 - :microscope: Student research assistant in Visual Knowledge Discovery and Imaging Lab with Dr. Kovalerchuk.
 - :writing_hand: Additional research asssitance in deployable cloud infrastructure for cybersecurity education.
-- 📽️ Some projects of mine hosted on GitHub pages:  
+- 📽️ Some web-based projects of mine hosted on GitHub pages:  
     + [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/) 
     + [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)  
     + [Whiteboard drawing app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)
