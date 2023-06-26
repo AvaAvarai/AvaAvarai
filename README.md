@@ -1,5 +1,5 @@
 - 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), and welcome to my GitHub page!
-- 👀 My interests lie in operating systems & kernels, programming languages, and graphics programming.
+- 👀 My interests lie in operating systems & kernels, programming languages, applied cryptology, and graphics programming.
 - 🌱 Finishing a double undergraduate degree in computer science & applied mathematics with Central WA University.
 - :computer: Former Server Administrator (RHEL, Ubunutu Server, CentOS, Bash, Python), Web-Developer (HTML/CSS, PHP, JavaScript, NodeJS, TypeScript, MySQL, MariaDB, MongoDB), Full-Stack Engineer (Java, Kotlin, Bash, Python, NodeJS, JavaScript, TypeScript, MySQL) and Computer Science Teaching Assistant (Java, Python, x86-64 Assembly, C, C++)\[most used technologies listed\].
 - :microscope: Student research assistant in Visual Knowledge Discovery and Imaging Lab working on visualization software and machine learning models.
