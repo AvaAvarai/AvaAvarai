@@ -1,6 +1,6 @@
 # Salutations friend 👋
 ```diff
-+ My name is Alice 'AvaAvarai' Williams and welcome to my GitHub page!
++ My name is Alice 'AvaAvarai' and welcome to my GitHub page!
 ```
 🔹 Interested in graphics, programming languages & virtual machines, applied cryptology, and operating systems & kernels,  
 🔹 Studying in a undergraduate double major of computer science & applied mathematics at Central Washington University.  
