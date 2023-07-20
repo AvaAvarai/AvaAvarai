@@ -2,16 +2,16 @@
 ```diff
 + My name is Alice "AvaAvarai" Williams and welcome to my GitHub page!
 ```
-- 👀 Interested in operating systems & kernels, programming languages & virtual machines, applied cryptology, and graphics.
-- 🌱 Studying in a undergraduate double major of computer science & applied mathematics at Central Washington University.
-- Roles held of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.
-- :microscope: Current student research assistant in the Visual Knowledge Discovery and Imaging Lab of Central Washington University.
-    - working on visualization software and visual analytics of machine learning models.
-- *Primary technologies worked with*: Python, Java, C, C++, Ubunutu Server, Alpine Linux, Bash, HTML/CSS, PHP, NodeJS, JavaScript, TypeScript, MySQL, MariaDB, MongoDB, Kotlin, x86-64 Windows YASM Assembly
-- 📽️ *Here are some static content web-based projects I've made during classes and hosted here on GitHub pages*:
-    + [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/) 
-    + [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)  
-    + [Whiteboard drawing app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)
-    + [Personal portfolio webpage made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)
+🔹 Interested in graphics, programming languages & virtual machines, applied cryptology, and operating systems & kernels,  
+🔹 Studying in a undergraduate double major of computer science & applied mathematics at Central Washington University.  
+🔹 Roles held of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.  
+🔹 Current student research assistant in the Visual Knowledge Discovery and Imaging Lab of Central Washington University.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 working on visualization software and visual analytics of machine learning models.  
+🔹 *Primary technologies worked with*: Python, Java, C, C++, Ubunutu Server, Alpine Linux, Bash, HTML/CSS, PHP, NodeJS, JavaScript, TypeScript, MySQL, MariaDB, MongoDB, Kotlin, x86-64 Windows YASM Assembly  
+🔹 *Here are some static content web-based projects I've made during classes and hosted here on GitHub pages*:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Whiteboard drawing app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)  
 
 🎲 May the odds forever be in your favor, happy coding!
