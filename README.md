@@ -1,6 +1,7 @@
 # Salutations friend 👋
-
-- My name is Alice "AvaAvarai" Williams and welcome to my GitHub page!
+```diff
++ My name is Alice "AvaAvarai" Williams and welcome to my GitHub page!
+```
 - 👀 Interested in operating systems & kernels, programming languages & virtual machines, applied cryptology, and graphics.
 - 🌱 Studying in a undergraduate double major of computer science & applied mathematics at Central Washington University.
 - Roles held of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.
