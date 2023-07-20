@@ -1,6 +1,6 @@
 - 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), welcome to my GitHub page!
 - 👀 Interested in programming of operating systems & kernels, programming languages, applied cryptology, and graphics.
-- 🌱 Studying in a undergraduate degree for a double major of computer science & applied mathematics with Central Washington University.
+- 🌱 Studying for a undergraduate degree double major of computer science & applied mathematics with Central Washington University.
 - Held former roles of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.
 - :microscope: Currently I am a student research assistant in the Visual Knowledge Discovery and Imaging Lab of Central Washington University working on visualization software and visual analytics of machine learning models.
 - 📽️ *Here are some static content web-based projects I've made during classes and hosted here on GitHub pages*:
