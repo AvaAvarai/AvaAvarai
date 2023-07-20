@@ -1,7 +1,9 @@
-- 👋 Salutations friend, my name is Alice Williams (@AvaAvarai), welcome to my GitHub page!
-- 👀 Interested in programming of operating systems & kernels, programming languages, applied cryptology, and graphics.
-- 🌱 Studying for a undergraduate degree double major of computer science & applied mathematics with Central Washington University.
-- Held former roles of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.
+# Salutations friend 👋
+
+- My name is Alice Williams or AvaAvarai and welcome to my GitHub page!
+- 👀 Interested in operating systems & kernels, programming languages & virtual machines, applied cryptology, and graphics.
+- 🌱 Studying for a undergraduate degree double major of computer science & applied mathematics at Central Washington University.
+- Roles before of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.
 - :microscope: Currently I am a student research assistant in the Visual Knowledge Discovery and Imaging Lab of Central Washington University working on visualization software and visual analytics of machine learning models.
 - 📽️ *Here are some static content web-based projects I've made during classes and hosted here on GitHub pages*:
     + [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/) 
