@@ -15,3 +15,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)  
 
 🎲 May the odds forever be in your favor, happy coding!
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaAvarai&theme=blue-green)
