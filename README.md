@@ -7,7 +7,7 @@
 🔹 Roles held of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.  
 🔹 Current student research assistant in the Visual Knowledge Discovery and Imaging Lab of Central Washington University.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 working on visualization software and visual analytics of machine learning models.  
-🔹 *Primary technologies worked with*: Python, Java, C, C++, Ubunutu Server, Alpine Linux, Bash, HTML/CSS, PHP, NodeJS, JavaScript, TypeScript, MySQL, MariaDB, MongoDB, Kotlin, x86-64 Windows YASM Assembly  
+🔹 *Primary technologies worked with*: Python, Java, C, C++, Linux, Bash, HTML/CSS, PHP, NodeJS, JavaScript, TypeScript, MySQL, MariaDB, MongoDB, Kotlin, x86-64 Windows YASM Assembly  
 🔹 *Here are some static content web-based projects I've made during classes and hosted here on GitHub pages*:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)  
