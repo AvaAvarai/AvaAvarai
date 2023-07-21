@@ -3,10 +3,10 @@
 + My name is Alice 'AvaAvarai' and welcome to my GitHub page!
 ```
 🔹 Interested in **graphics & simulations**, **language hacking & virtual machines**, **applied cryptology**, and **operating systems & kernels**,  
-🔹 Studying in a undergraduate double major of computer science & applied mathematics at Central Washington University.  
-🔹 Roles held of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.  
-🔹 Current student research assistant in the Visual Knowledge Discovery and Imaging Lab of Central Washington University.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 working on visualization software and visual analytics of machine learning models.  
+🔹 Studying for undergraduate double major of computer science & applied mathematics at Central Washington University.  
+🔹 Roles held: **Server Administrator**, **Web Application Developer**, **Full-Stack Engineer**, and **Computer Science Teaching Assistant**.  
+🔹 Now a **student research assistant** in the Visual Knowledge Discovery and Imaging Lab of Central Washington University.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 Developing **visualization software** and **visual analytics of machine learning models**.  
 🔹 *Primary technologies worked with*: Python, Java, C, C++, Linux, Bash, HTML/CSS, PHP, NodeJS, JavaScript, TypeScript, MySQL, MariaDB, MongoDB, Kotlin, x86-64 Windows YASM Assembly  
 🔹 *Web-based projects I've made during classes and hosted here on GitHub pages*:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)  
