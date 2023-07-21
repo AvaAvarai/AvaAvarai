@@ -2,7 +2,6 @@
 ```diff
 + My name is Alice 'AvaAvarai' and welcome to my GitHub page!
 ```
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaAvarai&theme=blue-green)  
 🔹 Interested in graphics, programming languages & virtual machines, applied cryptology, and operating systems & kernels,  
 🔹 Studying in a undergraduate double major of computer science & applied mathematics at Central Washington University.  
 🔹 Roles held of Server Administrator, Web Application Developer, Full-Stack Engineer, and Computer Science Teaching Assistant.  
