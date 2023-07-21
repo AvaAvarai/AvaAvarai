@@ -1,4 +1,4 @@
-# Salutations friend 👋
+# Salutations friend 🖖
 ```diff
 + My name is Alice 'AvaAvarai' and welcome to my GitHub page!
 ```
