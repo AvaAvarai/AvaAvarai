@@ -6,7 +6,7 @@
 
 🔹 Currently I'm studying for a dual Bachelor's of Science in Computer Science & Applied Mathematics at Central Washington University.  
 
-🔹 Former Professioal Roles: **Linux Server Administrator**, **Web Application Developer**, **Full-Stack Software Engineer**, **Computer Science Teaching Assistant** and **Student Research Assistant**.  
+🔹 Former professioal roles: **Linux Server Administrator**, **Web Application Developer**, **Full-Stack Software Engineer**, **Computer Science Teaching Assistant** and **Student Research Assistant**.  
 
 🎲 "May the odds forever be in your favor", happy coding!
 
