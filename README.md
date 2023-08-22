@@ -1,7 +1,7 @@
 # Salutations friend 🖖
 🔹 Interested in **graphics/simulations**, **domain specific languages/virtual machines**, and **operating systems/microkernels**.
 
-🔹 Currently I'm studying for a dual Bachelor's of Science in Computer Science & Applied Mathematics at Central Washington University.
+🔹 Currently I'm studying for a dual Bachelor's of Science in **Computer Science & Applied Mathematics** at Central Washington University.
 
 🔹 Former professioal roles: **Linux Server Administrator**, **Web Application Developer**, **Full-Stack Software Engineer**, **Computer Science Teaching Assistant** and **Student Research Assistant**.
 
