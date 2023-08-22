@@ -6,10 +6,9 @@
 
 🔹 Studying for undergraduate double major of computer science & applied mathematics at Central Washington University.  
 
-🔹 Former Roles: **Server Administrator**, **Web Application Developer**, **Full-Stack Engineer**, and **Computer Science Teaching Assistant** and **Student Research Assistant**.  
+🔹 Former Roles: **Linux Server Administrator**, **Web Application Developer**, **Full-Stack Software Engineer**, **Computer Science Teaching Assistant** and **Student Research Assistant**.  
 
-
-🎲 May the odds forever be in your favor, happy coding!
+🎲 "May the odds forever be in your favor", happy coding!
 
 *Web-based projects I've made during classes and hosted here on GitHub pages*:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)  
