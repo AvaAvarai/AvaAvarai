@@ -2,9 +2,9 @@
 ```diff
 + My name is Alice 'AvaAvarai' and welcome to my GitHub page!
 ```
-🔹 Interested in **graphics & simulations**, **language hacking & virtual machines**, **applied cryptology**, and **operating systems & kernels**,  
+🔹 Interested in **graphics/simulations**, **domain specific languages/virtual machines**, and **operating systems/microkernels**,  
 
-🔹 Studying for undergraduate double major of computer science & applied mathematics at Central Washington University.  
+🔹 Studying in a dual Bachelor's of Science in Computer Science & Applied Mathematics at Central Washington University.  
 
 🔹 Former Roles: **Linux Server Administrator**, **Web Application Developer**, **Full-Stack Software Engineer**, **Computer Science Teaching Assistant** and **Student Research Assistant**.  
 
