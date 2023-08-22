@@ -1,7 +1,4 @@
 # Salutations friend 🖖
-```diff
-+ My name is Alice 'AvaAvarai' and welcome to my GitHub page!
-```
 🔹 My interests are in **graphics/simulations**, **domain specific languages/virtual machines**, and **operating systems/microkernels**.
 
 🔹 Currently I'm studying for a dual Bachelor's of Science in Computer Science & Applied Mathematics at Central Washington University.
