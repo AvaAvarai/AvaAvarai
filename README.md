@@ -1,5 +1,5 @@
 # Salutations friend 🖖
-🔹 Interested in **graphics/simulations**, **domain specific languages/virtual machines**, and **operating systems/microkernels**.
+🔹 Interested in **machine learning/AI**, **graphics/simulations**, **domain specific languages/virtual machines**, and **operating systems/microkernels**.
 
 🔹 Currently studying for a dual Bachelor's of Science in **Computer Science & Applied Mathematics** at Central Washington University.
 
