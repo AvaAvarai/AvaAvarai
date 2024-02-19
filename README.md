@@ -6,9 +6,9 @@
 Finishing a dual Bachelor's of Science in Computer Science & Applied Mathematics.      
 
 # Professional Work:    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator for game server companies.    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at game server companies.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Web Application Developer for small businesses.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Software Engineer for software including insurance processing automation, server monitoring tooling, and a ticketing system.    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Software Engineer working on software including insurance processing automation, server monitoring tooling, and a ticketing system.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant directly tutoring students in coursework from fundamentals to data structures and algorithms to computer architecture.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Student Research Assistant researching interpretable machine learning with visual methods.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Soon as a Mathematical Coding Teaching Assistant assisting in teaching Python to mathematics students.    
