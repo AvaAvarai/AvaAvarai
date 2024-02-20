@@ -4,7 +4,7 @@
 # Professional Work:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at game server companies.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Web Application Developer for small businesses.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Software Engineer working on software including insurance processing automation, server monitoring tooling, and a ticketing system.    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Developer on software including an insurance processing automation, server monitoring tooling, and a ticketing system.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant tutoring students in fundamentals, data structures and algorithms, and computer architecture.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Student Research Assistant researching interpretable machine learning with visual methods.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Soon as a Mathematical Coding Teaching Assistant assisting in teaching Python to mathematics students.    
