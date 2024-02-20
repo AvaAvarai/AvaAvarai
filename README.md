@@ -1,9 +1,5 @@
-🔹Senior college student at Central Washington University
-🔹Life-long nerd
-🔹Former industry professional
-🔹Programmer
-
-Finishing a dual Bachelor's of Science in Computer Science & Applied Mathematics.      
+🔹Senior college student and resident nerd at Central Washington University.    
+🔹Finishing dual Bachelor's of Sciences in Computer Science & Applied Mathematics.      
 
 # Professional Work:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at game server companies.    
