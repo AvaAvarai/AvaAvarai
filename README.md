@@ -1,4 +1,4 @@
-🔹Industry programmer now back in school, now finishing dual Bachelor of Science degrees in Computer Science and Applied Mathematics.      
+🔹Programmer now back in school, now finishing dual Bachelor of Science degrees in Computer Science and Applied Mathematics.      
 
 # Professional Work:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at multiple game server start-ups.    
