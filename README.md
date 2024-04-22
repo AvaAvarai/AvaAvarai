@@ -1,6 +1,6 @@
 🔹Lifelong programmer now back in school, finishing dual Bachelor of Science degrees in Computer Science and Applied Mathematics.      
 
-# Professional Roles Worked:    
+# Professional Roles:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at multiple game server start-ups.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Web Application Developer for small businesses and individuals.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Developer on software including insurance processing automation, server monitoring tooling, and a ticketing system.    
