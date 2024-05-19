@@ -11,6 +11,7 @@
 # Web Based Projects:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹[MLH Crimson Code Hackathon 2024 project - Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹winning Most Creative Use of Redis Cloud award at CrimsonCode listed on [DevPost](https://devpost.com/software/priority-todo-manager)    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 [CS480 Group Project: Stock Viewer WebApp](https://github.com/CS480-Group-E/StockViewer-WebApp)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Whiteboard drawing app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
