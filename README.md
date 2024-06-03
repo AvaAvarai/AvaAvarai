@@ -1,6 +1,6 @@
 🔹Lifelong programmer now back in school, finishing dual Bachelor of Science degrees in Computer Science and Applied Mathematics.      
 
-Author of: "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for international conference IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery
+Primary author of: "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for international conference IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery
 
 # Research Interests:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹AI/ML
@@ -16,9 +16,6 @@ Author of: "Synthetic Data Generation and Automated Multidimensional Data Labeli
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant tutoring students in fundamentals, data structures and algorithms, and computer architecture.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Mathematical Coding Teaching Assistant assisting in teaching Python to mathematics students.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Student Research Assistant researching interpretable machine learning from a visual paradigm visualizing multidimensional spaces.    
-
-# Example Projects:
-Please see pinned projects below.
 
 # Example Web Based Projects:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹[MLH Crimson Code Hackathon 2024 project - Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager)    
