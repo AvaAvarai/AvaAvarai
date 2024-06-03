@@ -10,9 +10,9 @@ Primary author of: "Synthetic Data Generation and Automated Multidimensional Dat
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
 
 # Professional Roles (most recent first):    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Research Assistant on interpretable machine learning from a visual paradigm visualizing multidimensional spaces.    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Research Assistant on interpretable machine learning from a visual paradigm.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Mathematical Coding Teaching Assistant teaching Python to mathematics students.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant tutoring in fundamentals, data structures and algorithms, and computer architecture.    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant for fundamentals, data structures and algorithms, and computer architecture.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Developer on insurance processing automation, server monitoring tooling, and a ticketing system.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Web Application Developer for small businesses and individuals.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at multiple game server start-ups.    
