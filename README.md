@@ -19,7 +19,7 @@ Primary author of: "Synthetic Data Generation and Automated Multidimensional Dat
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at multiple game server start-ups.    
 
 # Web Projects
-&nbsp;&nbsp;&nbsp;&nbsp;🔹[Priority Todo Manager for MLH Crimson Code Hackathon 2024](https://github.com/CWUsers/Priority-Todo-Manager)    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹[Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹winning Most Creative Use of Redis Cloud sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
