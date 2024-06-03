@@ -10,7 +10,7 @@ Primary author of: "Synthetic Data Generation and Automated Multidimensional Dat
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
 
 # Work (most recent first)
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Active] Research Assistant on interpretable machine learning from a visual paradigm.    
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Active] Research Assistant on interpretable visual machine learning.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Active] Computer Science algorithm analysis tutor.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Mathematical Coding Teaching Assistant teaching Python to mathematics students.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant for fundamentals, data structures and algorithms, and computer architecture.    
