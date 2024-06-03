@@ -1,5 +1,14 @@
 🔹Lifelong programmer now back in school, finishing dual Bachelor of Science degrees in Computer Science and Applied Mathematics.      
 
+Author of: "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery
+
+# Research Interests:  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Artificial Intelligence
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Visual Knowledge Discovery
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Natural Language Processing
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Deep Learning
+
 # Professional Roles:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at multiple game server start-ups.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Web Application Developer for small businesses and individuals.    
