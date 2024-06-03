@@ -17,7 +17,10 @@ Author of: "Synthetic Data Generation and Automated Multidimensional Data Labeli
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Mathematical Coding Teaching Assistant assisting in teaching Python to mathematics students.    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Student Research Assistant researching interpretable machine learning from a visual paradigm visualizing multidimensional spaces.    
 
-# Web Based Projects:    
+# Example Projects:
+Please see pinned projects below.
+
+# Example Web Based Projects:    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹[MLH Crimson Code Hackathon 2024 project - Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹winning Most Creative Use of Redis Cloud award at CrimsonCode listed on [DevPost](https://devpost.com/software/priority-todo-manager)    
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 [CS480 Group Project: Stock Viewer WebApp](https://github.com/CS480-Group-E/StockViewer-WebApp)    
