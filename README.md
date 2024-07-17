@@ -1,6 +1,6 @@
-🔹Lifelong programmer now back in school, finishing dual Bachelor of Science degrees in Computer Science and Applied Mathematics.      
+Lifelong programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics.
 
-Primary author of: "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for international conference IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery written with Dr. Boris Kovalerchuk.
+Primary author of "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery, co-authored with Dr. Boris Kovalerchuk.
 
 # Research Interests
 &nbsp;&nbsp;&nbsp;&nbsp;🔹AI/ML
@@ -10,19 +10,18 @@ Primary author of: "Synthetic Data Generation and Automated Multidimensional Dat
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
 
 # Work
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Active] Research Assistant on interpretable visual machine learning.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Active] Computer Science algorithm analysis tutor.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Mathematical Coding Teaching Assistant teaching Python to mathematics students.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Computer Science Teaching Assistant for fundamentals, data structures and algorithms, and computer architecture.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Full-Stack Developer on insurance processing automation, server monitoring tooling, and a ticketing system.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Web Application Developer for small businesses and individuals.    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Linux Server Administrator at multiple game server start-ups.    
+- [Active] Research Assistant on interpretable visual machine learning.
+- [Active] Computer Science algorithm analysis tutor.
+- Teaching Assistant for Python, fundamentals, data structures, algorithms, and computer architecture.
+- Full-Stack Developer for insurance processing automation, server monitoring, and ticketing systems.
+- Web Application Developer for small businesses and individuals.
+- Linux Server Administrator at multiple game server start-ups. 
 
 # Web Projects
-&nbsp;&nbsp;&nbsp;&nbsp;🔹[Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔹winning Most Creative Use of Redis Cloud sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)    
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Whiteboard drawing app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 [Personal portfolio webpage made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)    
+- [Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
+  - won most creative use of Redis sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
+- [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
+- [Splash webpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
+- [Personal portfolio webpage made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)    
+- [Whiteboard drawing app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
+- [Personal portfolio webpage made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)    
