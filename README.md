@@ -1,6 +1,6 @@
-Lifelong programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics.
+Lifelong passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
 
-Primary author of "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery, co-authored with Dr. Boris Kovalerchuk.
+Primary author of "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for international conference IV2024 for the track AI&VKD – 5th AI and Visual Knowledge Discovery, paper co-authored with Dr. Boris Kovalerchuk.
 
 # Research Interests
 🔹Visual Knowledge Discovery
