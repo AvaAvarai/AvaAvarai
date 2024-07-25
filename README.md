@@ -5,7 +5,7 @@ Primary author of "Synthetic Data Generation and Automated Multidimensional Data
 # Research Interests
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Visual Knowledge Discovery
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Data/Info Visualisation
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Data Visualisation
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Natural Language Processing
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Deep Learning
 
