@@ -6,12 +6,13 @@ Primary author of "Synthetic Data Generation and Automated Multidimensional Data
 &nbsp;&nbsp;&nbsp;&nbsp;🔹AI/ML
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Deep Learning
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Visual Knowledge Discovery
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Natural Language Processing
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Data Visualisation
+&nbsp;&nbsp;&nbsp;&nbsp;🔹Natural Language Processing
 
 # Work
 - [Active] Research Assistant on interpretable visual machine learning.
-- [Active] Computer Science algorithm analysis tutor.
+- [Active] Tutor for Computer Science algorithm analysis.
 - Teaching Assistant for Python, fundamentals, data structures, algorithms, and computer architecture.
 - Full-Stack Developer for insurance processing automation, server monitoring, and ticketing systems.
 - Web Application Developer for small businesses and individuals.
