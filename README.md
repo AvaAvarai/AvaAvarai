@@ -3,7 +3,7 @@ Lifelong programmer, completing dual B.Sc. degrees in Computer Science and Appli
 Primary author of "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for IV2024: AI&VKD – 5th AI and Visual Knowledge Discovery, co-authored with Dr. Boris Kovalerchuk.
 
 # Research Interests
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Visual Knowledge Discovery
+🔹Visual Knowledge Discovery
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Data Visualisation
 &nbsp;&nbsp;&nbsp;&nbsp;🔹Natural Language Processing
