@@ -1,4 +1,4 @@
-Lifelong passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
+Passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
 
 Author of "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" at 28th international conference IV2024, track AI&VKD – 5th AI and Visual Knowledge Discovery, paper co-authored with Dr. Boris Kovalerchuk.
 
@@ -9,7 +9,7 @@ Author of "Synthetic Data Generation and Automated Multidimensional Data Labelin
 🔹Natural Language Processing
 🔹Deep Learning
 
-# Work
+# Work History
 - [Active] Research Assistant on interpretable visual machine learning.
 - [Active] Tutor for Computer Science algorithm analysis.
 - Teaching Assistant for Python, fundamentals, data structures, algorithms, and computer architecture.
@@ -17,7 +17,7 @@ Author of "Synthetic Data Generation and Automated Multidimensional Data Labelin
 - Web Application Developer for small businesses and individuals.
 - Linux Server Administrator at multiple game server start-ups. 
 
-# Web Projects
+# Demo Web Projects
 - [Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
   - Won most creative use of Redis sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
 - [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
