@@ -1,4 +1,4 @@
-Passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously. Authored "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for 28th international conference IV2024, track AI&VKD 5th AI and Visual Knowledge Discovery, co-authored with Dr. Boris Kovalerchuk.
+Passionate programmer, having returned to academia, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
 
 # Research Interests
 🔹Visual Knowledge Discovery
@@ -6,6 +6,9 @@ Passionate programmer, completing dual B.Sc. degrees in Computer Science and App
 🔹Data Visualisation
 🔹Natural Language Processing
 🔹Deep Learning
+
+# Papers Written
+- "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for 28th international conference IV2024, track AI&VKD 5th AI and Visual Knowledge Discovery, co-authored with Dr. Boris Kovalerchuk.
 
 # Work History
 - [Active] Research Assistant on interpretable visual machine learning.
