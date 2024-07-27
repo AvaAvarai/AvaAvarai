@@ -4,10 +4,10 @@ Author of "Synthetic Data Generation and Automated Multidimensional Data Labelin
 
 # Research Interests
 🔹Visual Knowledge Discovery
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Data Mining
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Data Visualisation
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Natural Language Processing
-&nbsp;&nbsp;&nbsp;&nbsp;🔹Deep Learning
+🔹Data Mining
+🔹Data Visualisation
+🔹Natural Language Processing
+🔹Deep Learning
 
 # Work
 - [Active] Research Assistant on interpretable visual machine learning.
