@@ -1,4 +1,4 @@
-Passionate programmer, having returned to academia, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
+Passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
 
 # Research Interests
 🔹Visual Knowledge Discovery
