@@ -4,8 +4,8 @@ Passionate programmer, completing dual B.Sc. degrees in Computer Science and App
 🔹Visual Knowledge Discovery
 🔹Data Mining
 🔹Data Visualisation
-🔹Natural Language Processing
 🔹Deep Learning
+🔹Natural Language Processing
 
 # Papers Written
 - "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for the 28th international conference IV2024 (Information Visualisation), track 5th AI&VKD (Artificial Intelligence and Visual Knowledge Discovery), paeper co-authored with Dr. Boris Kovalerchuk.
