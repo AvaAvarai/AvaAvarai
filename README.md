@@ -1,30 +1,46 @@
-Passionate programmer, in last year of dual B.Sc. degrees in Computer Science and Applied Mathematics.  
-Next, planning graduate studies in Computational Science with a focus on Visual Machine Learning.
+Hello, I'm Alice. Welcome to my GitHub profile!
+
+## About Me
+
+I'm a passionate programmer in my last year of dual B.Sc. degrees in Computer Science and Applied Mathematics. I'm planning graduate studies in Computational Science with a focus on Visual Machine Learning.
 
 ## Research Interests
-🔹Visual Knowledge Discovery 🔹Data Mining 🔹Data Visualization 🔹Deep Learning 🔹Natural Language Processing
 
-### First Paper Authored
-- "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates," co-authored with Dr. Boris Kovalerchuk.
-  - Presented at the 28th international conference IV2024 (Information Visualization) in the 5th AI&VKD (Artificial Intelligence and Visual Knowledge Discovery) track.
-  - Proposed algorithm to generate quality labeled synthetic data with General Line Coordinates to visualize and transform multidimensional data losslessly and interactively.
-  - Demonstrated algorithm's effectiveness for balancing data sets and addressing outliers in data sets (accentuating or diminishing, possibly relocating by attribute or entire case).
-  - Demonstrated limitations with popular alternative methods of data balancing with synthetic data such as SMOTE (Synthetic Minority Oversampling Technique) or standard sampling.
-  - Improved classifier performances with synthetically augmented data testing across fourteen standard ML classifiers.
+- Visual Knowledge Discovery
+- Data Mining
+- Data Visualization
+- Deep Learning
+- Natural Language Processing
 
-### Relevant Work History
-- [Active] Research Assistant on Machine Learning and Visual Knowledge Discovery at the Central Washington University Visual Knowledge Discovery and Imaging Lab.
-- [Active] Tutor for Computer Science algorithm analysis and course preparation.
-- Teaching Assistant for Python for mathematics students, Computer Science for Computer Science students, focuses on fundamentals, data structures, algorithms, mathematical computing, and computer architecture.
-- Full-Stack Developer for contract projects including insurance processing automation, server monitoring, and ticketing systems with a focus on small business to enterprise automation.
-- Website and Web Application Developer for a range of clientele of small businesses and entrepeneurial individuals.
-- Linux Server Administrator managing server setup, update, and backup solutions at multiple game server start-ups.
+## First Paper Authored
 
-### Demo for University Course Developed Web Projects
-- [Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
-  - Won most creative use of Redis sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
-- [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
-- [Splashpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
-- [Portfolio made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)    
-- [Whiteboard app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
-- [Portfolio made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)    
+**"Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"**
+- Presented at IV2024, AI&VKD track.
+- Proposed an algorithm for generating quality labeled synthetic data.
+- Demonstrated algorithm's effectiveness for data balancing and outlier management.
+- Improved classifier performances with synthetically augmented data.
+
+## Relevant Work History
+
+- **Research Assistant** at CWU Visual Knowledge Discovery and Imaging Lab
+  - Focus on Machine Learning and Visual Knowledge Discovery.
+- **Tutor** for Computer Science
+  - Specializing in algorithm analysis and course preparation.
+- **Teaching Assistant** for Python and Computer Science
+  - Covering fundamentals, data structures, algorithms, mathematical computing, and computer architecture.
+- **Full-Stack Developer** for contract projects
+  - Focus on automation for small businesses to enterprises.
+- **Website and Web Application Developer**
+  - Developed for various small businesses and entrepreneurs.
+- **Linux Server Administrator**
+  - Managed server setup, updates, and backup solutions for multiple game server startups.
+
+## Demo for University Course Developed Web Projects
+
+- [Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)  
+  - Won most creative use of Redis sponsor award ([DevPost](https://devpost.com/software/priority-todo-manager)).
+- [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)
+- [Splashpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)
+- [Portfolio made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)
+- [Whiteboard app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)
+- [Portfolio made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)
