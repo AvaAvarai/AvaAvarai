@@ -18,7 +18,7 @@ Passionate programmer, completing dual B.Sc. degrees in Computer Science and App
 # Work History
 - [Active] Research Assistant on interpretable visual machine learning.
 - [Active] Tutor for Computer Science algorithm analysis.
-- Teaching Assistant for Python, fundamentals, data structures, algorithms, and computer architecture.
-- Full-Stack Developer for insurance processing automation, server monitoring, and ticketing systems.
-- Web Application Developer for small businesses and individuals.
+- Teaching Assistant for Python, Computer Science fundamentals, data structures, algorithms, and computer architecture.
+- Full-Stack Developer for insurance processing automation, server monitoring, and ticketing systems across multiple contracts.
+- Website and WebApp Developer for small businesses and individuals.
 - Linux Server Administrator at multiple game server start-ups.  
