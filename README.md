@@ -1,21 +1,18 @@
-Passionate programmer, in last year of dual B.Sc. degrees in Computer Science and Applied Mathematics, next, planning graduate studies in Computational Science with a focus on Visual Machine Learning.
+Passionate programmer, in last year of dual B.Sc. degrees in Computer Science and Applied Mathematics.  
+Next, planning graduate studies in Computational Science with a focus on Visual Machine Learning.
 
 # Research Interests
-🔹Visual Knowledge Discovery
-🔹Data Mining
-🔹Data Visualization
-🔹Deep Learning
-🔹Natural Language Processing
+🔹Visual Knowledge Discovery 🔹Data Mining 🔹Data Visualization 🔹Deep Learning 🔹Natural Language Processing
 
-# Paper Written
+# First Paper Authored
 - "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates," co-authored with Dr. Boris Kovalerchuk.
-  Presented at the 28th international conference IV2024 (Information Visualization) in AI&VKD (Artificial Intelligence and Visual Knowledge Discovery).
-  - Proposed algorithm to generate quality labeled synthetic data with General Line Coordinates to visualize multidimensional data losslessly.
-  - Demonstrated algorithm effectiveness for balancing data sets and addressing outliers in data sets (accentuating or diminishing, possibly relocating by attribute or entire case).
-  - Demonstrated limitations with alternative methods of data balancing with synthetic data such as SMOTE (Synthetic Minority Oversampling Technique) or standard sampling.
-  - Improved classifier performances with synthetically augmented data.
+  - Presented at the 28th international conference IV2024 (Information Visualization) in the 5th AI&VKD (Artificial Intelligence and Visual Knowledge Discovery) track.
+  - Proposed algorithm to generate quality labeled synthetic data with General Line Coordinates to visualize and transform multidimensional data losslessly and interactively.
+  - Demonstrated algorithm's effectiveness for balancing data sets and addressing outliers in data sets (accentuating or diminishing, possibly relocating by attribute or entire case).
+  - Demonstrated limitations with popular alternative methods of data balancing with synthetic data such as SMOTE (Synthetic Minority Oversampling Technique) or standard sampling.
+  - Improved classifier performances with synthetically augmented data testing across fourteen standard ML classifiers.
 
-# Work History
+# Relevant Work History
 - [Active] Research Assistant on Machine Learning and Visual Knowledge Discovery at the Central Washington University Visual Knowledge Discovery and Imaging Lab.
 - [Active] Tutor for Computer Science algorithm analysis and course preparation.
 - Teaching Assistant for Python for mathematics students, Computer Science for Computer Science students, focuses on fundamentals, data structures, algorithms, mathematical computing, and computer architecture.
