@@ -19,3 +19,12 @@ Next, planning graduate studies in Computational Science with a focus on Visual 
 - Full-Stack Developer for contract projects including insurance processing automation, server monitoring, and ticketing systems with a focus on small business to enterprise automation.
 - Website and Web Application Developer for a range of clientele of small businesses and entrepeneurial individuals.
 - Linux Server Administrator managing server setup, update, and backup solutions at multiple game server start-ups.
+
+### Demo for University Course Developed Web Projects
+- [Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
+  - Won most creative use of Redis sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
+- [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
+- [Splashpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
+- [Portfolio made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)    
+- [Whiteboard app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
+- [Portfolio made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)    
