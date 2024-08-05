@@ -1,4 +1,4 @@
-Passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics simultaneously.
+Passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics.
 
 # Research Interests
 🔹Visual Knowledge Discovery
@@ -7,8 +7,11 @@ Passionate programmer, completing dual B.Sc. degrees in Computer Science and App
 🔹Deep Learning
 🔹Natural Language Processing
 
-# Papers Written
+# Paper Written
 - "Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates" for the 28th international conference IV2024 (Information Visualisation), track 5th AI&VKD (Artificial Intelligence and Visual Knowledge Discovery), paeper co-authored with Dr. Boris Kovalerchuk.
+  - Proposed algorithm to generate quality synthetic data with General Line Coordinates to visualize multidimensional data losslessly.
+  - Demonstrated algorithm effectiveness for balancing data sets and addressing outliers in data sets (accentuating or diminishing, possibly relocating by attribute or entire case).
+  - Demonstrated limitations with alternative methods of data balancing with synthetic data such as SMOTE (Synthetic Minority Oversampling Technique) or standard sampling.  
 
 # Work History
 - [Active] Research Assistant on interpretable visual machine learning.
@@ -16,13 +19,4 @@ Passionate programmer, completing dual B.Sc. degrees in Computer Science and App
 - Teaching Assistant for Python, fundamentals, data structures, algorithms, and computer architecture.
 - Full-Stack Developer for insurance processing automation, server monitoring, and ticketing systems.
 - Web Application Developer for small businesses and individuals.
-- Linux Server Administrator at multiple game server start-ups. 
-
-# Demo Web Projects
-- [Priority Todo Manager for MLH Crimson Code Hackathon 2024 (CWU CS Club Team)](https://github.com/CWUsers/Priority-Todo-Manager)    
-  - Won most creative use of Redis sponsor award [DevPost](https://devpost.com/software/priority-todo-manager)    
-- [Stock Viewer WebApp for CS480 (Advanced Software Engineering)](https://github.com/CS480-Group-E/StockViewer-WebApp)    
-- [Splashpage in HTML/CSS/vanilla JavaScript for CWU CS Club](https://cwu-cs-club.github.io/club-webpage-splash/)    
-- [Portfolio made in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/cs446-portfolio-webpage/)    
-- [Whiteboard app in React, original demo in HTML/CSS/vanilla JavaScript for CS446 (User Interface Design)](https://avaavarai.github.io/CS446_MapMaker/)  
-- [Portfolio made from a Jekyll template for CS380 (Intro to Software Engineering)](https://avaavarai.github.io/AvaAvarai.github.io.CS380/)    
+- Linux Server Administrator at multiple game server start-ups.  
