@@ -1,4 +1,4 @@
-Passionate programmer, completing dual B.Sc. degrees in Computer Science and Applied Mathematics.
+Passionate programmer, in last year of dual B.Sc. degrees in Computer Science and Applied Mathematics, next, planning graduate studies in Computational Science with a focus on Visual Machine Learning.
 
 # Research Interests
 🔹Visual Knowledge Discovery
