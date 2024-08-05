@@ -16,9 +16,9 @@ Passionate programmer, in last year of dual B.Sc. degrees in Computer Science an
   - Improved classifier performances with synthetically augmented data.
 
 # Work History
-- [Active] Research Assistant on interpretable visual machine learning.
-- [Active] Tutor for Computer Science algorithm analysis.
-- Teaching Assistant for Python, Computer Science fundamentals, data structures, algorithms, and computer architecture.
-- Full-Stack Developer for insurance processing automation, server monitoring, and ticketing systems across multiple contracts.
-- Website and WebApp Developer for small businesses and individuals.
-- Linux Server Administrator at multiple game server start-ups.  
+- [Active] Research Assistant on Machine Learning and Visual Knowledge Discovery at the Central Washington University Visual Knowledge Discovery and Imaging Lab.
+- [Active] Tutor for Computer Science algorithm analysis and course preparation.
+- Teaching Assistant for Python for mathematics students, Computer Science for Computer Science students, focuses on fundamentals, data structures, algorithms, mathematical computing, and computer architecture.
+- Full-Stack Developer for contract projects including insurance processing automation, server monitoring, and ticketing systems with a focus on small business to enterprise automation.
+- Website and Web Application Developer for a range of clientele of small businesses and entrepeneurial individuals.
+- Linux Server Administrator managing server setup, update, and backup solutions at multiple game server start-ups.
