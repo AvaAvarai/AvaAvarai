@@ -16,6 +16,7 @@ I'm a passionate programmer in my last year of dual B.Sc. degrees in Computer Sc
 
 **"Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"**
 - Presented at IV2024, AI&VKD track.
+- Won best paper award at IV2024.
 - Proposed an algorithm for generating quality labeled synthetic data.
 - Demonstrated algorithm's effectiveness for data balancing and outlier management.
 - Improved classifier performances with synthetically augmented data.
