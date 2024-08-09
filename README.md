@@ -2,7 +2,7 @@ Hello, I'm Alice. Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a passionate programmer in my last year of dual B.Sc. degrees in Computer Science and Applied Mathematics. I'm planning graduate studies in Computational Science with a focus on Visual Machine Learning.
+I'm a passionate programmer in my last year of dual B.Sc. degrees in Computer Science and Applied Mathematics. I'm planning to next pursue graduate studies in Computational Science with a focus on Visual Machine Learning.
 
 ## Research Interests
 
