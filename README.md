@@ -15,6 +15,7 @@ I'm a passionate programmer in my last year of dual B.Sc. degrees in Computer Sc
 ## First Paper Authored
 
 **"Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"**
+- Preprint posted on [ArXiv](https://arxiv.org/abs/2409.02079).
 - Presented at IV2024, AI&VKD track.
 - Won best paper award at IV2024.
 - Proposed an algorithm for generating quality labeled synthetic data.
