@@ -1,6 +1,6 @@
 # Alice Williams
 
-Welcome to my GitHub! I’m Alice, a dual B.Sc. candidate in Computer Science and Applied Mathematics, passionate about solving problems at the intersection of Machine Learning and Data Visualization; blending computation with human cognition. I’m currently in my final year, planning to pursue graduate studies in Computational Science with a focus on Visual Machine Learning.
+Welcome to my GitHub! I’m Alice, a dual B.Sc. student in Computer Science and Applied Mathematics, passionate about solving problems at the intersection of Machine Learning and Data Visualization; blending computation with human cognition. I’m in my final year, but exploring additional courses before beginning graduate studies in Computational Science with a focus on Visual Machine Learning.
 
 ## Research Interests
 - Visual Knowledge Discovery
