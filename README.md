@@ -10,6 +10,11 @@ Welcome to my GitHub, I’m Alice, a double major B.Sc. student studying Compute
 - Computational Science
 
 ## Recent Publications
+
+**"Visual Boosting in Machine Learning with Human-in-the-Loop"**
+- Proposed for AI-HCI 2025
+- Contributions: Visual solution to the 2003 Gödel Prize problem AdaBoost.
+
 **"Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"**
 - [ArXiv Preprint](https://arxiv.org/abs/2409.02079)
 - Presented at IV2024 (AI & VKD track) — Best Paper Award
