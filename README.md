@@ -13,7 +13,7 @@ Welcome to my GitHub, I’m Alice, a double major B.Sc. student studying Compute
 
 **"Visual Boosting in Machine Learning with Human-in-the-Loop"**
 - Proposed for AI Human Computer Interfaces 2025.
-- Contributions: Visual solution to the 2003 Gödel Prize problem winner AdaBoost classifier for visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
+- Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
 
 **"Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"**
 - [ArXiv Preprint](https://arxiv.org/abs/2409.02079)
