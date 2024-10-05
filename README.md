@@ -22,13 +22,13 @@ Welcome to my GitHub, I’m Alice, a double major B.Sc. student studying Compute
 - Presented at IV2024 (AI & VKD track) — Best Paper Award.
 - Contributions: Proposed a novel algorithm for labeled synthetic data generation, improving data balancing and classifier performance.
 
-## Relevant Experience
+## Technical Experience
 - **Research Assistant** | CWU Visual Knowledge Discovery & Imaging Lab  
   Focus: Machine Learning, Visual Knowledge Discovery
-- **Teaching Assistant** | Python & Computer Science  
-  Courses: Data Structures, Algorithms, Mathematical Computing, Computer Architecture
-- **Full-Stack Developer** | Contract Projects  
-  Automation solutions for small businesses and enterprises
+- **Teaching Assistant** | CWU Computer Science & Mathematics Departments  
+  Courses: Computer Architecture, Algorithm Analysis, Mathematical Computing, Undergraduate CS Course Tutor
+- **Full-Stack Developer** | Contract Projects & Freelance Business  
+  Automation and business solutions for small businesses and invdividuals
 - **Linux Server Administrator** | Game Server Startups  
   Server setup, updates, backup solutions
 
