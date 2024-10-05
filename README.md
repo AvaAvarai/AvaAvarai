@@ -9,13 +9,15 @@ Welcome to my GitHub, I’m Alice, a double major B.Sc. student studying Compute
 - Natural Language Processing
 - Computational Science
 
-## Publications
+## Authorship
 
 **"Visual Boosting in Machine Learning with Human-in-the-Loop"**
+- Written by: Alice Williams & Boris Kovalerchuk.
 - Proposed for AI Human Computer Interfaces 2025.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
 
 **"Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"**
+- Written by: Alice Williams & Boris Kovalerchuk.
 - [ArXiv Preprint](https://arxiv.org/abs/2409.02079)
 - Presented at IV2024 (AI & VKD track) — Best Paper Award.
 - Contributions: Proposed a novel algorithm for labeled synthetic data generation, improving data balancing and classifier performance.
