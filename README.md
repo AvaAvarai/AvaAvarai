@@ -30,7 +30,7 @@ Welcome to my GitHub, I’m Alice, a double major B.Sc. student studying Compute
 - **Full-Stack Developer** | Contract Projects & Freelance Business  
   Automation and business solutions for small businesses and invdividuals
 - **Linux Server Administrator** | Game Server Startups  
-  Server setup, updates, backup solutions
+  Server setup, updates, backup solutions, software support
 
 ## Projects & Demos
 - [Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager)  
