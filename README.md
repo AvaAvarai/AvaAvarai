@@ -20,7 +20,7 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 - Presented at IV2024 (AI & VKD track) — Best Paper Award.
 - Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, and showed improvements to classifier performance across 14 standard classifiers.
 
-## Technical Experience
+## Technical Experiences
 - **Research Assistant** | CWU Visual Knowledge Discovery & Imaging Lab  
   Focus: Machine Learning, Visual Knowledge Discovery
 - **Teaching Assistant** | CWU Computer Science & Mathematics Departments  
