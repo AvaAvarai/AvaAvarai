@@ -31,8 +31,7 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
   Server setup, updates, backup solutions, software support
 
 ## Projects & Demos
-- [Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager)  
-  **MLH Crimson Code Hackathon 2024** | *Most Creative Use of Redis* — [DevPost](https://devpost.com/software/priority-todo-manager)
+- [Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager) **MLH Crimson Code Hackathon 2024** | *Most Creative Use of Redis* — [DevPost](https://devpost.com/software/priority-todo-manager)
 - [Stock Viewer WebApp](https://github.com/CS480-Group-E/StockViewer-WebApp) | Advanced Software Engineering (CS480)
 - [CS Club Splash Page](https://cwu-cs-club.github.io/club-webpage-splash/) | HTML/CSS/JavaScript
 - [Portfolio Website](https://avaavarai.github.io/cs446-portfolio-webpage/) | User Interface Design (CS446)
