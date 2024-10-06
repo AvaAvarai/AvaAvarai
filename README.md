@@ -1,6 +1,6 @@
 # Alice Williams
 
-Welcome to my GitHub, I’m Alice, a double major B.Sc. student, former system administrator, and full-stack software developer, now studying Computer Science and Applied Mathematics where I am in my final year, but exploring additional courses, before diving into graduate studies in Computational Science with a focus on Visual Machine Learning. I thoroughly enjoy solving problems at the intersection of Machine Learning and Data Visualization by blending computation with human cognition.
+Double major B.Sc. student, former system administrator, and full-stack software developer, now studying Computer Science and Applied Mathematics in my final year and exploring additional courses, next graduate studies in Computational Science with a focus on Visual Machine Learning. I enjoy solving problems at the intersection of Machine Learning and Data Visualization by blending computation with human cognition.
 
 ## Research Interests
 - Visual Knowledge Discovery
