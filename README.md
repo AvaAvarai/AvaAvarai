@@ -5,9 +5,9 @@ Double major Bachelor's of Science undergraduate student, former system administ
 ## Research Interests
 Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Processing, Automated Decision-Making
 
-## Authorship
+## Publications
 
-**"Visual Boosting in Machine Learning with Human-in-the-Loop"**
+**"[Proposal] Visual Boosting in Machine Learning with Human-in-the-Loop"**
 - Written by: Alice Williams & Boris Kovalerchuk.
 - Proposed for AI Human Computer Interfaces 2025.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
