@@ -15,7 +15,7 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 **["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
 - Written by: Alice Williams & Boris Kovalerchuk.
 - Presented at IV2024 (AI & VKD track) — Best Paper Award.
-- Contributions: Proposed a novel algorithm for labeled synthetic data generation, improving data balancing and classifier performance.
+- Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, and showed improvements to classifier performance across 14 standard classifiers.
 
 ## Technical Experience
 - **Research Assistant** | CWU Visual Knowledge Discovery & Imaging Lab  
