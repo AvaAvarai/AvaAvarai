@@ -27,7 +27,7 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
   Focus: Machine Learning, Visual Knowledge Discovery
 - **CS & Maths Teaching Assistant** | CWU Computer Science & Mathematics Departments  
   Courses: Computer Architecture, Algorithm Analysis, Mathematical Computing, Undergraduate CS Course Tutor
-- **Full-Stack Developer** | Contract Projects & Freelance Business  
+- **Full-Stack Software Developer** | Contract Projects & Freelance Business  
   Automation and business solutions for small businesses and invdividuals
 - **Linux Server Administrator** | Game Server Startups  
   Server setup, updates, backup solutions, software support
