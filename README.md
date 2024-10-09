@@ -21,6 +21,8 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 - Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, and showed improvements to classifier performance across 14 standard classifiers.
 
 ## Technical Experiences
+- **Co-Founder & CTO** | Stealth Startup    
+  Focus: As the Co-Founder and Chief Technology Officer of a foreign language tutoring app, I am responsible for overseeing the entire software development lifecycle, technical architecture, and backend infrastructure.
 - **Research Assistant** | CWU Visual Knowledge Discovery & Imaging Lab  
   Focus: Machine Learning, Visual Knowledge Discovery
 - **Teaching Assistant** | CWU Computer Science & Mathematics Departments  
