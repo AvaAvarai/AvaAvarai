@@ -22,7 +22,7 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 
 ## Technical Experiences
 - **Ed-Tech Startups Founder & Co-Founder** | Stealth Startups    
-  Focus: As the Co-Founder and Chief Technology Officer of a foreign language tutoring app, I am responsible for overseeing the entire software development lifecycle, technical architecture, and backend infrastructure.
+  Focus: As the Founder of an forming startup I am responsible for everything, as the Co-Founder of a building startup I provide AI/ML consulting.
 - **AI/ML Research Assistant** | CWU Visual Knowledge Discovery & Imaging Lab  
   Focus: Machine Learning, Visual Knowledge Discovery
 - **CS & Maths Teaching Assistant** | CWU Computer Science & Mathematics Departments  
