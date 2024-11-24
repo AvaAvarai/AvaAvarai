@@ -3,7 +3,7 @@
 
 # Alice Williams
 
-Double major Bachelor's of Science undergraduate student, former system administrator, & full-stack software developer. Studying Computer Science & Applied Mathematics in my final year while exploring additional courses, next graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
+Double major Bachelor's of Science undergraduate student, former system administrator, & full-stack software developer. Studying Computer Science & Applied Mathematics, next graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
 
 ## Research Interests
 Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Processing, Automated Decision-Making
@@ -11,14 +11,14 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 ## Publications
 
 **"[Proposal] Visual Boosting in Machine Learning with Human-in-the-Loop"**
-- Written by: Alice Williams & Boris Kovalerchuk.
+- Written by: Alice Williams & Dr. Boris Kovalerchuk.
 - Proposed for AI Human Computer Interfaces 2025.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
 
 **["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
-- Written by: Alice Williams & Boris Kovalerchuk.
+- Written by: Alice Williams & Dr. Boris Kovalerchuk.
 - Presented at IV2024 (AI & VKD track) — Best Paper Award.
-- Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, and showed improvements to classifier performance across 14 standard classifiers.
+- Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, demonstrated deficiencies of popular SMOTE (Synthetic Minority Oversampling Technique), and showed improvements to classifier performance across 14 standard classifiers.
 
 ## Technical Experiences
 - **Ed-Tech Startups Founder & Co-Founder** | Stealth Startups    
@@ -32,12 +32,5 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 - **Linux Server Administrator** | Game Server Startups  
   Server setup, updates, backup solutions, software support
 
-## Projects & Demos
-- [My CV Splashpage](https://avaavarai.github.io/Avarai_CV/) | Developing myself Fall 2024
-- [Priority Todo Manager](https://github.com/CWUsers/Priority-Todo-Manager) | MLH Crimson Code Hackathon 2024 | *Most Creative Use of Redis* — [DevPost](https://devpost.com/software/priority-todo-manager)
-- [Stock Viewer WebApp](https://github.com/CS480-Group-E/StockViewer-WebApp) | Advanced Software Engineering (CS480)
-- [CS Club Splash Page](https://cwu-cs-club.github.io/club-webpage-splash/) | HTML/CSS/JavaScript
-- [Portfolio Website](https://avaavarai.github.io/cs446-portfolio-webpage/) | User Interface Design (CS446)
-
 ## Let's Connect
-I'm always open to discussing new projects or opportunities. Feel free to reach out!
+I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me!
