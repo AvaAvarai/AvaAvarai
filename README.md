@@ -10,7 +10,7 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 
 ## Publications
 
-**"[Proposal] Visual Boosting in Machine Learning with Human-in-the-Loop"**
+**"[Proposal] Representation Learning with Visual Knowledge Discovery"**
 - Written by: Alice Williams & Dr. Boris Kovalerchuk.
 - Proposed for AI Human Computer Interfaces 2025.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
