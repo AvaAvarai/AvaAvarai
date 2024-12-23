@@ -10,6 +10,12 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 
 ## Publications
 
+**"[Actively Developing] Synthetic Data Generation with Visual Knowledge Discovery"**
+- Written by: Alice Williams & Dr. Boris Kovalerchuk.
+- Proposed for AI Human Computer Interfaces 2025.
+- Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with GANs.
+- Supporting software: Dynamic_Coordinates_Vis_System
+
 **"[Accepted] Representation Learning with Visual Knowledge Discovery"**
 - Written by: Alice Williams & Dr. Boris Kovalerchuk.
 - Proposed for AI Human Computer Interfaces 2025.
