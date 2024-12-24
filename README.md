@@ -1,9 +1,9 @@
 "*I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. It is, strictly speaking, a real factor in scientific research.*”  
-― Albert Einstein
+― Albert Einstein 1929, quoted by Dr. Boris Kovalerchuk in Visual Knowledge Discovery and Machine Learning 2018
 
 # Alice Williams
 
-Double major Bachelor's of Science undergraduate student, former system administrator, & full-stack software developer. Studying Computer Science & Applied Mathematics, next graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
+Double major Bachelor's of Science Computer Science and Applied Mathematics undergraduate senior student. Former system administrator, full-stack software developer, and web-developer. Next graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
 
 ## Research Interests
 Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Processing, Automated Decision-Making
