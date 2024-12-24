@@ -13,13 +13,13 @@ Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Pr
 **"[Actively researching] Synthetic Data Generation with Visual Knowledge Discovery"**
 - Written by: Alice Williams & Dr. Boris Kovalerchuk.
 - Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with GANs.
-- Supporting software: Dynamic_Coordinates_Vis_System
+- Supporting software: Dynamic_Coordinates_Vis_System, future developments
 
 **"[Preparing camera ready version] Representation Learning with Visual Knowledge Discovery"**
 - Written by: Alice Williams & Dr. Boris Kovalerchuk.
 - Proposed for AI Human Computer Interfaces 2025.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
-- Supporting software: Java_Tabular_Vis_Toolkit
+- Supporting software: Java_Tabular_Vis_Toolkit, HyperblockParser, InLineCoordinatesCoefficientSolver
 
 **[Published] ["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
 - Written by: Alice Williams & Dr. Boris Kovalerchuk.
