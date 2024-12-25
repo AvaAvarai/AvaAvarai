@@ -6,15 +6,15 @@
 Double major Bachelor's of Science Computer Science and Applied Mathematics undergraduate senior student. Former system administrator, full-stack software developer, and web-developer. Next, planning for graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
 
 ## Research Interests
-| Field                          | Description                         |
-|--------------------------------|-------------------------------------|
-| Visual Machine Learning        | Applying machine learning models with visual representations for better interpretability. |
-| Visual Knowledge Discovery     | Identifying patterns and insights visually from complex datasets. |
-| Data Mining                    | Extracting valuable information from large datasets. |
-| Multidimensional Data Visualization | Representing high-dimensional data in visually intuitive ways. |
-| Natural Language Processing    | Analyzing and generating human language using computational techniques. |
-| Automated Decision-Making      | Developing systems to make decisions without human intervention. |
-| Human Computer Interfaces      | Designing interfaces for effective interaction between humans and computers. |
+| Field                            | Description                         |
+|----------------------------------|-------------------------------------|
+| Visual Machine Learning          | Applying machine learning models with visual representations for better interpretability. |
+| Visual Knowledge Discovery       | Identifying patterns and insights visually from complex datasets. |
+| Data Mining                      | Extracting valuable information from large datasets. |
+| Multidimensional Data Visualization   | Representing high-dimensional data in visually intuitive ways. |
+| Natural Language Processing      | Analyzing and generating human language using computational techniques. |
+| Automated Decision-Making        | Developing systems to make decisions without human intervention. |
+| Human Computer Interfaces        | Designing interfaces for effective interaction between humans and computers. |
 
 ## Publications
 
