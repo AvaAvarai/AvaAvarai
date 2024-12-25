@@ -37,16 +37,13 @@ Double major Bachelor's of Science Computer Science and Applied Mathematics unde
 - Developed software: Dynamic_Coordinates_Vis_System
 
 ## Technical Experiences
-- **Ed-Tech Startups Founder & Co-Founder** | Stealth Startups    
-  Focus: As the Founder of an forming startup I am responsible for everything, as the Co-Founder of a building startup I provide AI/ML consulting.
-- **AI/ML Research Assistant** | CWU Visual Knowledge Discovery & Imaging Lab  
-  Focus: Machine Learning, Visual Knowledge Discovery
-- **CS & Maths Teaching Assistant** | CWU Computer Science & Mathematics Departments  
-  Courses: Computer Architecture, Algorithm Analysis, Mathematical Computing, Undergraduate CS Course Tutor
-- **Full-Stack Software Developer** | Contract Projects & Freelance Business  
-  Automation and business solutions for small businesses and invdividuals
-- **Linux Server Administrator** | Game Server Startups  
-  Server setup, updates, backup solutions, software support
+| Role                              | Organization                                   | Focus/Description                                                                 |
+|-----------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
+| **Ed-Tech Startups Founder & Co-Founder** | Stealth Startups                              | As the Founder of a forming startup, I am responsible for everything. As the Co-Founder of a building startup, I provide AI/ML consulting. |
+| **AI/ML Research Assistant**     | CWU Visual Knowledge Discovery & Imaging Lab  | Focused on Machine Learning and Visual Knowledge Discovery.                       |
+| **CS & Maths Teaching Assistant**| CWU Computer Science & Mathematics Departments| Courses include Computer Architecture, Algorithm Analysis, Mathematical Computing, and serving as an Undergraduate CS Course Tutor. |
+| **Full-Stack Software Developer**| Contract Projects & Freelance Business        | Delivered automation and business solutions for small businesses and individuals. |
+| **Linux Server Administrator**   | Game Server Startups                          | Responsible for server setup, updates, backup solutions, and software support.    |
 
 ## Let's Connect
 I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me!
