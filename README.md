@@ -3,7 +3,7 @@
 
 # Alice Williams
 
-Double major Bachelor's of Science Computer Science and Applied Mathematics undergraduate senior student. Former system administrator, full-stack software developer, and web-developer. Next graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
+Double major Bachelor's of Science Computer Science and Applied Mathematics undergraduate senior student. Former system administrator, full-stack software developer, and web-developer. Next, planning for graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
 
 ## Research Interests
 | Field                          | Description                         |
