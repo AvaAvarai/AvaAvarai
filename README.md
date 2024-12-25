@@ -6,7 +6,7 @@
 Double major Bachelor's of Science Computer Science and Applied Mathematics undergraduate senior student. Former system administrator, full-stack software developer, and web-developer. Next graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
 
 ## Research Interests
-Visual Machine Learning, Visual Knowledge Discovery, Data Mining, Data Visualization, Natural Language Processing, Automated Decision-Making
+Visual Machine Learning, Visual Knowledge Discovery, Data Mining, Multidimensional Data Visualization, Natural Language Processing, Automated Decision-Making, Human Computer Interfaces
 
 ## Publications
 
