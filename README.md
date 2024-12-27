@@ -18,7 +18,7 @@ If you find my work of interest or benefit, then please consider a supporting ge
 | Automated Decision-Making             | Developing systems to make decisions without human intervention. |
 | Human Computer Interaction            | Designing methods of effective interaction between humans and computers. |
 
-## Publications
+## Academic Publications
 
 3. **"[Actively researching] Synthetic Data Generation with Visual Knowledge Discovery"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
