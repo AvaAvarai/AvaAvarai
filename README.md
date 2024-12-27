@@ -39,9 +39,9 @@ If you find my work of interest or benefit, then please consider a supporting ge
 - Developed software: Dynamic_Coordinates_Vis_System
 
 ## Technical Experiences
-| Role                              | Organization                                  | Focus/Description                                                                 |
-|-----------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
-| **Ed-Tech Startups Founder & Co-Founder** | Stealth Startups                              | As the Founder of a forming startup, I am responsible for everything. As a consulting founding member for other stealth startups, I provide AI/ML consulting. |
+| Role                              | Organization                                 | Focus/Description                                                                 |
+|-----------------------------------|----------------------------------------------|-----------------------------------------------------------------------------------|
+| **Ed-Tech Startups Founder & Consultant** | AI Ed-Tech Stealth Startups          | In founding an AI Ed-Tech startup, I am responsible for everything. Additionally, I provide AI/ML consulting. |
 | **AI/ML Research Assistant**     | CWU Visual Knowledge Discovery & Imaging Lab  | Focused on Machine Learning and Visual Knowledge Discovery.                       |
 | **CS & Maths Teaching Assistant**| CWU Computer Science & Mathematics Departments| Courses include Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an Undergraduate CS Course Tutor. |
 | **Web Application Developer**    | Freelance Business                            | Supporting individuals and small businesses in web-based business from websites and backend support to branding and outreach. |
