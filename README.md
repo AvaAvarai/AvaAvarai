@@ -27,13 +27,13 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 2. **"[Preparing camera ready version] Representation Learning with Visual Knowledge Discovery"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Accepted for presentation at AI Human Computer Interfaces 2025.
+- Accepted for presentation at AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
 - Developed software: Java_Tabular_Vis_Toolkit, HyperblockParser, InLineCoordinatesCoefficientSolver
 
 1. **[Published] ["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Presented at IV2024 (AI & VKD track).
+- Presented at IV2024 in track of Artificial Intelligence and Visual Knowledge Discovery.
 - Earned the Best Paper Award.
 - Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, demonstrated deficiencies of popular SMOTE (Synthetic Minority Oversampling Technique), and showed improvements to classifier performance across 14 standard classifiers.
 - Developed software: Dynamic_Coordinates_Vis_System
