@@ -39,12 +39,13 @@ If you find my work of interest or benefit, then please consider a supporting ge
 - Developed software: Dynamic_Coordinates_Vis_System
 
 ## Technical Experiences
-| Role                              | Organization                                   | Focus/Description                                                                 |
+| Role                              | Organization                                  | Focus/Description                                                                 |
 |-----------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
 | **Ed-Tech Startups Founder & Co-Founder** | Stealth Startups                              | As the Founder of a forming startup, I am responsible for everything. As the Co-Founder of a building startup, I provide AI/ML consulting. |
 | **AI/ML Research Assistant**     | CWU Visual Knowledge Discovery & Imaging Lab  | Focused on Machine Learning and Visual Knowledge Discovery.                       |
 | **CS & Maths Teaching Assistant**| CWU Computer Science & Mathematics Departments| Courses include Computer Architecture, Algorithm Analysis, Mathematical Computing, and serving as an Undergraduate CS Course Tutor. |
-| **Full-Stack Software Developer**| Contract Projects & Freelance Business        | Delivered automation and business solutions for small businesses and individuals. |
+| **Web Application Developer**    | Freelance Business                            | Supporting individuals and small businesses in web-based business from websites and backend support to branding and outreach. |
+| **Full-Stack Software Developer**| Contract Projects & Freelance Business        | Delivered automation and business solutions for individuals, small businesses, and constract enterprise. |
 | **Linux Server Administrator**   | Game Server Startups                          | Responsible for server setup, updates, backup solutions, and software support.    |
 
 ## Let's Connect
