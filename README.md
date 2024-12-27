@@ -3,7 +3,7 @@
 
 # Alice Williams
 
-Double Bachelor's of Science Computer Science and Applied Mathematics senior student. Former system administrator, full-stack software developer, and web-developer. Next, planning graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending computation with human cognition.
+Double Bachelor's of Science Computer Science and Applied Mathematics senior student. Former system administrator, full-stack software developer, and web-developer. Next, planning graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of Machine Learning & Data Visualization by blending machine computation with human cognition.
 
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
