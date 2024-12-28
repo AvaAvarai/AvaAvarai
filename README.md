@@ -21,10 +21,10 @@ If you find my work of interest or benefit, then please consider a supporting ge
 ## Academic Publications
 
 3. **"Synthetic Data Generation with Visual Knowledge Discovery"**
-- Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Actively researching at the CWU VKD & Imaging Lab.
-- Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with GANs. Expanding software with relabeling and GAN data synthesization, in support of theorized algorithms.
-- Topics: Synthetic Tabular Data Generation, General Line Coordinates, Hyperblock Model Representation
+- Authors: Alice Williams and Dr. Boris Kovalerchuk.
+- Status: Actively researching at the CWU Visual Knowledge Discvery and Imaging Lab.
+- Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with Generative Adversarial Networks (GANS). Expanding software with relabeling and GAN data synthesization, in support of theorized algorithms.
+- Topics: Synthetic Tabular Data Generation, General Line Coordinates, Hyperblock Model Representation, Generative Adversarial Networks
 - Developed software: Dynamic_Coordinates_Vis_System
 
 2. **"Representation Learning with Visual Knowledge Discovery"**
