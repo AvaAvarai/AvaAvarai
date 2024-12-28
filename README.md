@@ -20,22 +20,23 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Academic Publications
 
-3. **"[Actively researching] Synthetic Data Generation with Visual Knowledge Discovery"**
+3. **"Synthetic Data Generation with Visual Knowledge Discovery"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with GANs.
-- Developed software: Dynamic_Coordinates_Vis_System, future developments
+- Status: Actively researching at the CWU VKD & Imaging Lab.
+- Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with GANs. Expanding software with relabeling and GAN data synthesization, in support of theorized algorithms.
+- Topics: Synthetic Tabular Data Generation, General Line Coordinates, Hyperblock Model Representation
+- Developed software: Dynamic_Coordinates_Vis_System
 
-2. **"[Preparing camera ready version] Representation Learning with Visual Knowledge Discovery"**
+2. **"Representation Learning with Visual Knowledge Discovery"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Accepted for presentation at AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
+- Status: Preparing camera ready version, accepted for presentation at AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
 - Topics: Human-Centered AI, Machine Learning, Multi-Class Classification, Feature Engineering, Explainable AI, AI Risk Mitigation, Human-in-the-Loop, Multi-Dimensional Distributions, General Line Coordinates, Concentric Coordinates.
 - Developed software: Java_Tabular_Vis_Toolkit, HyperblockParser, InLineCoordinatesCoefficientSolver
 
 1. **[Published] ["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Presented at IV2024 in track of Artificial Intelligence and Visual Knowledge Discovery.
-- Earned the Best Paper Award.
+- Status: Published in IEEE proceedings and presented at IV2024 in track of Artificial Intelligence and Visual Knowledge Discovery, earned the 'Best Paper Award'.
 - Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, demonstrated deficiencies of popular SMOTE (Synthetic Minority Oversampling Technique), and showed improvements to classifier performance across 14 standard classifiers.
 - Topics: Synthetic Data Generation, Automated Data Labeling, General Line Coordinates, Circular Coordinates, Parallel Coordinates, Shifted Paired Coordinates, Tabular AI/ML Data, Multidimensional Data Visualization, Visual Knowledge Discovery.
 - Developed software: Dynamic_Coordinates_Vis_System
