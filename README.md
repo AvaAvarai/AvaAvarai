@@ -39,14 +39,14 @@ If you find my work of interest or benefit, then please consider a supporting ge
 - Developed software: Dynamic_Coordinates_Vis_System
 
 ## Technical Experiences
-| Role                                     | Organization                                  | Focus/Description                                                                 |
-|------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
-| **Ed-Tech Startup Founder & Consultant** | AI Ed-Tech Stealth Startup                    | In founding an AI Ed-Tech startup, I am responsible for everything. Additionally, I provide AI/ML consulting. |
-| **AI/ML Research Assistant**             | CWU Visual Knowledge Discovery & Imaging Lab  | Focused on Machine Learning and Visual Knowledge Discovery.                       |
-| **CS & Maths Teaching Assistant**        | CWU Computer Science & Mathematics Departments| Courses include Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an Undergraduate CS Course Tutor. |
-| **Web Application Developer**            | Freelance Sole-Proprietor Business            | Supporting individuals and small businesses in web-based business from websites and backend support to branding and outreach. |
-| **Full-Stack Software Developer**        | Contract Projects & Freelance Business        | Delivered automation and business solutions for individuals, small businesses, and contract enterprise. |
-| **Linux Server Administrator**           | Game Server Startups                          | Responsible for server setup, updates, backup solutions, and software support.    |
+| Role                                     | Organization                                     | Focus/Description                                                                                                             |
+|------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Ed-Tech Startup Founder & Consultant** | AI Education Technology Stealth Startups         | In founding an AI Ed-Tech startup, I am responsible for everything. Additionally, I provide AI/ML consulting.                 |
+| **AI/ML Research Assistant**             | CWU Visual Knowledge Discovery and Imaging Lab   | Focused on Machine Learning and Visual Knowledge Discovery.                                                                   |
+| **CS & Maths Teaching Assistant**        | CWU Computer Science and Mathematics Departments | Courses include Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an Undergraduate CS Course Tutor.   |
+| **Web Application Developer**            | Freelance Sole-Proprietor Business               | Supporting individuals and small businesses in web-based business from websites and backend support to branding and outreach. |
+| **Full-Stack Software Developer**        | Contract Projects and Freelance Business         | Delivered automation and business solutions for individuals, small businesses, and contract enterprise.                       |
+| **Linux Server Administrator**           | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, updates, backup solutions, and software support.                                      |
 
 ## Let's Connect
 I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me!
