@@ -20,6 +20,8 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Academic Publications
 
+_Ordered from current to first work._
+
 3. **"Synthetic Data Generation with Visual Knowledge Discovery"**
 - Authors: Alice Williams and Dr. Boris Kovalerchuk.
 - Status: Actively researching at the CWU Visual Knowledge Discvery and Imaging Lab.
