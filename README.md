@@ -15,7 +15,7 @@ If you find my work of interest or benefit, then please consider a supporting ge
 | Data Mining                           | Extracting valuable information from large sample count and dimensionality of data.              |
 | Multidimensional Data Visualization   | Representing multidimensional data in representations advantageous for the task to solve.        |
 | Natural Language Processing           | Analyzing and generating human language for human-computer interaction or computation.           |
-| Automated Decision-Making             | Developing and analyzing decision-making systems which may or may not have computer integration. |
+| Automated Decision-Making             | Developing and analyzing decision-making systems which automate processes for ease of human use. |
 | Human-Computer Interaction            | Designing effective human-computer interaction using visually interactive interfaces.            |
 
 ## Academic Publications
