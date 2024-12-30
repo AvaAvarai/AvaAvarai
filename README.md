@@ -16,7 +16,7 @@ If you find my work of interest or benefit, then please consider a supporting ge
 | Multidimensional Data Visualization   | Representing high-dimensional data in visually intuitive ways. |
 | Natural Language Processing           | Analyzing and generating human language using computational techniques. |
 | Automated Decision-Making             | Developing systems to make decisions without human intervention. |
-| Human Computer Interaction            | Designing methods of effective interaction between humans and computers. |
+| Human-Computer Interaction            | Designing methods of effective interaction between humans and computers. |
 
 ## Academic Publications
 
