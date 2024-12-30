@@ -11,8 +11,8 @@ If you find my work of interest or benefit, then please consider a supporting ge
 | Field                                 | Description                                                                                        |
 |---------------------------------------|----------------------------------------------------------------------------------------------------|
 | Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.          |
-| Visual Knowledge Discovery            | Extracting patterns visually from multidimensional datasets to solve a task like machine learning. |
-| Data Mining                           | Extracting valuable information from large sample count and dimensionality of datasets.            |
+| Visual Knowledge Discovery            | Extracting patterns visually from multidimensional data to solve a task like machine learning.     |
+| Data Mining                           | Extracting valuable information from large sample count and dimensionality of data.                |
 | Multidimensional Data Visualization   | Representing multidimensional data in representations advantageous for the task to solve.          |
 | Natural Language Processing           | Analyzing and generating human language for human-computer interaction or computation.             |
 | Automated Decision-Making             | Developing and analyzing decision-making systems which may or may not have computer integration.   |
