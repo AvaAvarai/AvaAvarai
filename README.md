@@ -8,15 +8,15 @@ Double Bachelor's of Science Computer Science and Applied Mathematics senior stu
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
 ## Research Interests
-| Field                                 | Description                                                                                      |
-|---------------------------------------|--------------------------------------------------------------------------------------------------|
-| Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.        |
-| Visual Knowledge Discovery            | Extracting patterns visually from multidimensional data to solve a task like machine learning.   |
-| Data Mining                           | Extracting valuable information from large sample count and dimensionality of data.              |
-| Multidimensional Data Visualization   | Representing multidimensional data in representations advantageous for the task to solve.        |
-| Natural Language Processing           | Analyzing and generating human language for human-computer interaction or computation.           |
-| Automated Decision-Making             | Developing and analyzing decision-making systems which automate processes for ease of human use. |
-| Human-Computer Interaction            | Designing effective human-computer interaction using visually interactive interfaces.            |
+| Field                                 | Description                                                                                    |
+|---------------------------------------|------------------------------------------------------------------------------------------------|
+| Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.      |
+| Visual Knowledge Discovery            | Extracting patterns visually from multidimensional data to solve a task like machine learning. |
+| Data Mining                           | Extracting valuable information from large sample count and dimensionality of data.            |
+| Multidimensional Data Visualization   | Representing multidimensional data in representations advantageous for the task to solve.      |
+| Natural Language Processing           | Analyzing and generating human language for human-computer interaction or computation.         |
+| Automated Decision-Making             | Developing and analyzing automated decision-making systems for limited human interaction.      |
+| Human-Computer Interaction            | Designing effective human-computer interaction using visually interactive interfaces.          |
 
 ## Academic Publications
 
