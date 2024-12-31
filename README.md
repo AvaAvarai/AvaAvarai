@@ -1,5 +1,5 @@
-"*I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. It is, strictly speaking, a real factor in scientific research.*”  
-― Albert Einstein 1929, quoted by Dr. Boris Kovalerchuk in Visual Knowledge Discovery and Machine Learning 2018
+"I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. It is, strictly speaking, a real factor in scientific research.”  
+― _Albert Einstein 1929, quoted by Dr. Boris Kovalerchuk in Visual Knowledge Discovery and Machine Learning 2018._  
 
 # Alice Williams
 
