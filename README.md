@@ -7,7 +7,7 @@ Double Bachelor's of Science senior student majoring in Computer Science and App
 
 Solving problems at the intersection of machine learning and data visualization by blending machine computation with human cognition. Computing with data visualizations directly, instead of just making visualizations. While integrating visual approaches with conventional machine learning methods.  
 
-Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Research goals: Aquire knowledge by visual analysis with multidimensional lossless visualizations, then apply aquired knowledge and skills to solve task at hand.  
+Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Research goals: Aquire knowledge by visual knowledge discovery with multidimensional lossless visualizations, then apply aquired knowledge and skills to solve task at hand.  
 
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
