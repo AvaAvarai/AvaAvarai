@@ -3,11 +3,12 @@
 
 # Alice Williams
 
-Double Bachelor's of Science Computer Science and Applied Mathematics senior student. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, planning graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of machine learning and data visualization by blending machine computation with human cognition.
+Double Bachelor's of Science senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, planning graduate studies in Computational Science with a focus on Visual Machine Learning. Solving problems at the intersection of machine learning and data visualization by blending machine computation with human cognition.
 
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
 ## Research Interests
+
 | Field                                 | Description                                                                                    |
 |---------------------------------------|------------------------------------------------------------------------------------------------|
 | Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.      |
