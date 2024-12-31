@@ -56,7 +56,7 @@ _Chronologically ordered from current at top to first at bottom._
 | **Research Assistant (Active)**              | CWU Visual Knowledge Discovery and Imaging Lab   | Focusing on Visual Knowledge Discovery and Machine Learning data classification, synthesization, and model interpretability. |
 | **Teaching Assistant**              | CWU Computer Science and Mathematics Departments | Courses were Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an Undergraduate CS Tutor.            |
 | **Web Developer**                   | Freelance Sole-Proprietor Business               | Supporting individuals and small businesses in developing web applications and websites with branding, and outreach.         | 
-| **Full-Stack Software Developer**   | Contract Projects and Freelance Business         | Delivered automation and business solutions for individuals, small businesses, and an enterprise contract.                   |
+| **Full-Stack Software Developer**   | Contract Projects and Freelance Business         | Delivered data processing automation and business solutions for individuals, small businesses, and an enterprise contract.   |
 | **Linux Game Server Administrator** | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, protection, updates, backup solutions, user registration, and software support.      |
 
 ## Let's Connect
