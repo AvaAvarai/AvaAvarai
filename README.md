@@ -37,7 +37,7 @@ _Chronologically ordered from current at top to first at bottom._
 2. **"Representation Learning with Visual Knowledge Discovery"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Preparing camera ready version, accepted for presentation at AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
-- Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space.
+- Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space and visualizing classifier uncertainty, applying visual knowledge discovery methods to extract data representational rules and improve classification models.  
 - Topics: Human-Centered AI, Machine Learning, Multi-Class Classification, Feature Engineering, Explainable AI, AI Risk Mitigation, Human-in-the-Loop, Multi-Dimensional Distributions, General Line Coordinates, Concentric Coordinates.
 - Developed software: Java_Tabular_Vis_Toolkit, HyperblockParser, InLineCoordinatesCoefficientSolver
 
