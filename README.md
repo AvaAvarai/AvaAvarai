@@ -11,7 +11,7 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Research Interests
 
-| Field                                 | Description                                                                                    |
+| Research Interest                     | Description                                                                                    |
 |---------------------------------------|------------------------------------------------------------------------------------------------|
 | Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.      |
 | Visual Knowledge Discovery            | Extracting patterns visually from multidimensional data to solve a task like machine learning. |
