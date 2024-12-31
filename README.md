@@ -50,14 +50,14 @@ _Chronologically ordered from current at top to first at bottom._
 
 ## Technical Experiences
 
-| Role                                | Organization                                     | Focus/Description                                                                                                            |
-|-------------------------------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
-| **Startup Founder and Consultant (Active)**  | AI Education Technology Stealth Startups         | In founding an AI Ed-Tech startup, I am responsible for everything. Additionally, I provide AI/ML consulting.                |
-| **Research Assistant (Active)**              | CWU Visual Knowledge Discovery and Imaging Lab   | Focusing on Visual Knowledge Discovery and Machine Learning data classification, synthesization, and model interpretability. |
-| **Teaching Assistant**              | CWU Computer Science and Mathematics Departments | Courses were Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an Undergraduate CS Tutor.            |
-| **Web Developer**                   | Freelance Sole-Proprietor Business               | Supported individuals and small businesses in developing, updating, and maintaining web applications and websites.           | 
-| **Full-Stack Software Developer**   | Contract Projects and Freelance Business         | Delivered data processing automation and business solutions for individuals, small businesses, and an enterprise contract.   |
-| **Linux Game Server Administrator** | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, protection, updates, backup solutions, user registration, and software support.      |
+| Role                                         | Organization                                     | Focus/Description                                                                                                               |
+|----------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Startup Founder and Consultant (Active)**  | AI Education Technology Stealth Startups         | In founding an AI Ed-Tech startup, I am responsible for everything. Additionally, I provide AI/ML consulting.                   |
+| **Research Assistant (Active)**              | CWU Visual Knowledge Discovery and Imaging Lab   | Focusing on Visual Knowledge Discovery and Machine Learning data classification, synthesization, and model interpretability.    |
+| **Teaching Assistant**                       | CWU Computer Science and Mathematics Departments | Courses assisted for were Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an undergraduate CS Tutor.  |
+| **Web Developer**                            | Freelance Sole-Proprietor Business               | Supported individuals and small businesses in developing, updating, and maintaining web applications and websites.              | 
+| **Full-Stack Software Developer**            | Contract Projects and Freelance Business         | Delivered data processing automation and business solutions for individuals, small businesses, and an enterprise contract.      |
+| **Linux Game Server Administrator**          | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, protection, updates, backup solutions, user registration, and software support.         |
 
 ## Let's Connect
 I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me!
