@@ -11,6 +11,8 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Research Interests
 
+_In no preferential order._
+
 | Research Interest                     | Description                                                                                    |
 |---------------------------------------|------------------------------------------------------------------------------------------------|
 | Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.      |
@@ -23,7 +25,7 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Academic Publications
 
-_Ordered from current to first work._
+_Chronologically ordered from current at top to first work at bottom._
 
 3. **"Synthetic Data Generation with Visual Knowledge Discovery"**
 - Authors: Alice Williams and Dr. Boris Kovalerchuk.
