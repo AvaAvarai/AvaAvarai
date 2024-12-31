@@ -44,7 +44,7 @@ _Chronologically ordered from current at top to first at bottom._
 1. **["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Published in IEEE proceedings and presented at IV2024 in track of Artificial Intelligence and Visual Knowledge Discovery, earned the 'Best Paper Award'.
-- Contributions: Proposed an algorithm for labeled synthetic data generation, addressed data balancing, demonstrated deficiencies of popular SMOTE (Synthetic Minority Oversampling Technique), and showed improvements to classifier performance across 14 standard classifiers.
+- Contributions: Proposed an algorithm and implemented interactive software for labeled synthetic data generation using former General Line Coordinate methods and newly developed Circular Coordinates both Static and Dynamic with multi-class visualization and parameterized class discrimination. Addressed data balancing, demonstrated deficiencies of popular SMOTE (Synthetic Minority Oversampling Technique), and showed improvements to classifier performance across 14 standard machine learning classifiers.
 - Topics: Synthetic Data Generation, Automated Data Labeling, General Line Coordinates, Circular Coordinates, Parallel Coordinates, Shifted Paired Coordinates, Tabular AI/ML Data, Multidimensional Data Visualization, Visual Knowledge Discovery.
 - Developed software: Dynamic_Coordinates_Vis_System
 
