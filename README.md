@@ -52,7 +52,7 @@ _Chronologically ordered from current at top to first at bottom._
 
 | Role                                         | Organization                                     | Focus/Description                                                                                                             |
 |----------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Startup Founder and Consultant (Active)**  | AI Education Technology Stealth Startups         | In founding an AI Ed-Tech startup, I am responsible for everything. Additionally, I provide AI/ML consulting.                 |
+| **Startup Founder and Consultant (Active)**  | AI Education Technology Stealth Startups         | Small business founding, startup product development, market research, and additionally, I provide AI/ML consulting.          |
 | **Research Assistant (Active)**              | CWU Visual Knowledge Discovery and Imaging Lab   | Researching Visual Knowledge Discovery and Machine Learning data classification, synthesization, and model interpretability.  |
 | **Teaching Assistant**                       | CWU Computer Science and Mathematics Departments | Assisted in Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an undergraduate CS Tutor.              |
 | **Web Developer**                            | Freelance Sole-Proprietor Business               | Supported individuals and small businesses in developing, updating, and maintaining web applications and websites.            | 
