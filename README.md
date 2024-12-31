@@ -33,7 +33,7 @@ _Chronologically ordered from current at top to first at bottom._
 - Authors: Alice Williams and Dr. Boris Kovalerchuk.
 - Status: Actively researching at the CWU Visual Knowledge Discvery and Imaging Lab.
 - Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with Generative Adversarial Networks (GANS). Expanding software with relabeling and GAN data synthesization, in support of theorized algorithms. Exploring GAN deficiencies and seeking ways to integrate visual improvements.
-- Topics: Synthetic Tabular Data Generation, General Line Coordinates, Hyperblock Model Representation, Generative Adversarial Networks
+- Topics: Synthetic Tabular Data Generation, Image to tabular data preprocessing, General Line Coordinates, Hyperblock Model Representation, Generative Adversarial Networks
 - Developed software: Dynamic_Coordinates_Vis_System, ML_Classifier_Comparison_Tool, DCGAN_Custom_Architecture_Builder_and_Image_Synthesizer
 
 2. **"Representation Learning with Visual Knowledge Discovery"**
