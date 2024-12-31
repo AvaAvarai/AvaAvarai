@@ -25,7 +25,7 @@ _In no preferential order._
 
 ## Academic Publications
 
-_Chronologically ordered from current at top to first work at bottom._
+_Chronologically ordered from current at top to first at bottom._
 
 3. **"Synthetic Data Generation with Visual Knowledge Discovery"**
 - Authors: Alice Williams and Dr. Boris Kovalerchuk.
