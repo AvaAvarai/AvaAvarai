@@ -5,9 +5,9 @@
 
 Double Bachelor's of Science senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, graduate studies in Computational Science focusing on visual machine learning. With a goal of building trusted expert artificial intelligence systems.  
 
-Solving problems at the intersection of machine learning and data visualization by blending machine computation with human cognition. Computing with data visualizations directly, instead of just making visualizations. While integrating visual approaches with conventional machine learning methods.  
+Solving problems at the intersection of machine learning and data visualization by blending machine computation with human cognition. Computing with data visualizations directly, instead of just making visuals. While integrating visual approaches with conventional machine learning methods.  
 
-Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Research goals: Aquire knowledge by visual knowledge discovery with multidimensional lossless visualizations, then apply aquired knowledge and skills to solve difficult tasks more interpretably and accurately.  
+Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Research goals: Aquire knowledge by visual knowledge discovery with multidimensional lossless visualizations, then apply aquired knowledge to build skills that solve difficult tasks more interpretably and accurately.  
 
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
