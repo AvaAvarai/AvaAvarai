@@ -3,6 +3,8 @@
 
 # Alice Williams
 
+<a href="https://gitroll.io/profile/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2?theme=light" alt="GitRoll Profile Badge"/></a>
+
 Double Bachelor's of Science senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, graduate studies in Computational Science focusing on visual machine learning. With a goal of building trusted expert artificial intelligence systems.  
 
 Solving problems at the intersection of machine learning and data visualization by blending machine computation with human cognition. Computing with data visualizations directly, instead of just making visuals. While integrating visual approaches with conventional machine learning methods.  
