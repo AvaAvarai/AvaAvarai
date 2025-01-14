@@ -27,7 +27,7 @@ _In no preferential order._
 | Automated Decision-Making             | Developing and analyzing automated decision-making systems for limited human interaction.      |
 | Human-Computer Interaction            | Designing effective human-computer interaction using visually interactive interfaces.          |
 
-## Academic Publications
+## Academic Research
 
 _Chronologically ordered from current at top to first at bottom._
 
