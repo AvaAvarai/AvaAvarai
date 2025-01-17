@@ -38,7 +38,7 @@ _Chronologically ordered from current at top to first at bottom._
 - Topics: Synthetic Tabular Data Generation, Image to tabular data preprocessing, General Line Coordinates, Hyperblock Model Representation, Generative Adversarial Networks, Multi-Row Parallel Coordinates, Imagery Visualization
 - Developed software: Dynamic_Coordinates_Vis_System, ML_Classifier_Comparison_Tool, DCGAN_Custom_Architecture_Builder_and_Image_Synthesizer
 
-2. **"Representation Learning with Visual Knowledge Discovery"**
+2. **"Interpretable Computational Visual Knowledge Discovery and Boosting Classification Models with Human-in-the-Loop"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Preparing camera ready version, accepted for presentation at AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space and visualizing classifier uncertainty, applying visual knowledge discovery methods to extract data representational rules and improve classification models by rebuilding them with interpretable hyperblock representations.  
