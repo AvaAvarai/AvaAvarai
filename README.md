@@ -31,18 +31,18 @@ _In no preferential order._
 
 _Chronologically ordered from current at top to first at bottom._
 
-3. **"Synthetic Data Generation with Visual Knowledge Discovery"**
+3. **"Synthetic Data Generation with Computational Visual Knowledge Discovery"**
 - Authors: Alice Williams and Dr. Boris Kovalerchuk.
 - Status: Actively researching at the CWU Visual Knowledge Discvery and Imaging Lab.
 - Contributions: Expanding on synthetic data generation methods with interactive algorithms paired with Generative Adversarial Networks (GANS). Expanding software with relabeling and GAN data synthesization, in support of theorized algorithms. Exploring GAN deficiencies and seeking ways to integrate visual improvements.
 - Topics: Synthetic Tabular Data Generation, Image to tabular data preprocessing, General Line Coordinates, Hyperblock Model Representation, Generative Adversarial Networks, Multi-Row Parallel Coordinates, Imagery Visualization
 - Developed software: Dynamic_Coordinates_Vis_System, ML_Classifier_Comparison_Tool, DCGAN_Custom_Architecture_Builder_and_Image_Synthesizer
 
-2. **"Interpretable Computational Visual Knowledge Discovery and Boosting Classification Models with Human-in-the-Loop"**
+2. **"Boosting of Classification Models with Human-in-the-Loops Computational Visual Knowledge Discovery"**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Preparing camera ready version, accepted for presentation at AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
+- Status: Preparing presentation for AI Human Computer Interfaces 2025 in thematic area of Artificial Intelligence in HCI.
 - Contributions: Visual solution to the 2003 Gödel Prize problem of AdaBoost classifier by visual observation of options for different classifiers before selecting them for boosting allowing alternative ways to build stronger classifiers, including directly building classifiers in a lossless visualization space and visualizing classifier uncertainty, applying visual knowledge discovery methods to extract data representational rules and improve classification models by rebuilding them with interpretable hyperblock representations.  
-- Topics: Human-Centered AI, Machine Learning, Multi-Class Classification, Feature Engineering, Explainable AI, AI Risk Mitigation, Human-in-the-Loop, Multi-Dimensional Distributions, General Line Coordinates, Concentric Coordinates.
+- Topics: Visual Knowledge Discovery, Classification Model Boosting, Interpretable Machine Learning, Human-in-the-Loop, Visualization
 - Developed software: Java_Tabular_Vis_Toolkit, HyperblockParser, InLineCoordinatesCoefficientSolver
 
 1. **["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
