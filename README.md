@@ -15,7 +15,7 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Academic Research
 
-2. **"Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"**
+2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Preprint under review by ArXiv. Presenting at HCII2025.
 - Contributions: Introduces the Computational and Interactive Visual Learning (CIVL) framework, integrating human-in-the-loop visualization and computational techniques to improve classification model boosting, particularly in class-overlapping areas, by separating simple and complex cases, leveraging interpretable decision rules, and enhancing classifier accuracy and explainability through lossless multidimensional visualizations like Parallel Coordinates and General Line Coordinates (GLCs). This improves classification model boosting, particularly in class-overlapping areas, by separating simple and complex cases, leveraging interpretable decision rules, and enhancing classifier accuracy and explainability through lossless multidimensional visualizations achieving 100% accuracy on the Fisher Iris data with significantly fewer parameters than AdaBoost, which won the 2003 Gödel Prize, reducing the risk of overfitting by maintaining a high case-to-parameter ratio while offering enhanced interpretability.
