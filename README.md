@@ -1,9 +1,7 @@
-"I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. It is, strictly speaking, a real factor in scientific research.”  
+**"I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. It is, strictly speaking, a real factor in scientific research.”**  
 ― _Albert Einstein 1929, quoted by Dr. Boris Kovalerchuk in Visual Knowledge Discovery and Machine Learning 2018._  
 
 # Alice Williams
-
-<a href="https://gitroll.io/profile/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2?theme=light" alt="GitRoll Profile Badge"/></a>
 
 Double Bachelor's of Science senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, graduate studies in Computational Science focusing on visual machine learning. With a goal of building trusted expert artificial intelligence systems.  
 
@@ -13,7 +11,7 @@ Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply kno
 
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
-## Academic Research
+## Academic Peer-Reviewed Research
 
 2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
@@ -56,5 +54,10 @@ _In no preferential order._
 | **Full-Stack Software Developer**            | Contract Projects and Freelance Business         | Delivered data processing automation and business solutions for individuals, small businesses, and an enterprise contract.    |
 | **Linux Game Server Administrator**          | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, protection, updates, backup solutions, user registration, and software support.       |
 
+## Coding Comparison
+
+<a href="https://gitroll.io/profile/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2?theme=light" alt="GitRoll Profile Badge"/></a>
+
 ## Let's Connect
-I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me!
+
+I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me! The best means is email.
