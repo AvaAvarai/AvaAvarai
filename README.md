@@ -13,6 +13,11 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 ## Academic Peer-Reviewed Research
 
+3. Visual Representation and Feature Engineering to Classify Multidimensional Data Iteratively by Visual Knowledge Discovery
+- Authors: Alice Williams & Dr. Boris Kovalerchuk.
+- Status: Submission preparation for IV2025.
+- Contributions: Representation Learning, Feature Engineering, Hyberblock Data Segmentation, Collocated Paired Coordinates, Iterative Classification, Visual Knowledge Discovery
+
 2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Preprint on ArXiv. Presenting at HCII2025.
