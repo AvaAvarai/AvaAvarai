@@ -3,7 +3,7 @@
 
 # Alice Williams
 
-Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning. With a goal of building trustable expert artificial intelligence systems for human collaboration.  
+Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning. With a goal of building trust-worthy collaborative expert artificial intelligence systems.  
 
 I seek to solve problems at the intersection of machine learning and data visualization by blending machine computation with human cognition. Computing with data visualizations directly, instead of just making visuals. While integrating visual approaches with conventional machine learning methods.  
 
