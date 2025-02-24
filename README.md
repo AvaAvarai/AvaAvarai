@@ -54,10 +54,6 @@ _In no preferential order._
 | **Full-Stack Software Developer**            | Contract Projects and Freelance Business         | Delivered data processing automation and business solutions for individuals, small businesses, and an enterprise contract.    |
 | **Linux Game Server Administrator**          | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, protection, updates, backup solutions, user registration, and software support.       |
 
-## Coding Comparison
-
-<a href="https://gitroll.io/profile/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ua8nvEgUYqQVMwyOvJDNGNnPeJpG2?theme=light" alt="GitRoll Profile Badge"/></a>
-
 ## Let's Connect
 
 I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me! The best means is email.
