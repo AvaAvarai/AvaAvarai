@@ -3,17 +3,15 @@
 
 # Alice Williams
 
-Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Former system administrator, full-stack software developer, and web-developer. Next, pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning. With a goal of building trust-worthy collaborative expert artificial intelligence systems.  
+Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Professional experience in system administration, full-stack software development, and web-development. Next, pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning. With a goal of building trustable human-in-the-loop expert artificial intelligence systems. Computing with data visualizations directly, instead of just making visuals, while integrating visual approaches with standard machine learning methods.  
 
-I seek to solve problems at the intersection of machine learning and data visualization by blending machine computation with human cognition. Computing with data visualizations directly, instead of just making visuals. While integrating visual approaches with standard machine learning methods.  
-
-Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Current research goals: Aquire knowledge by visual knowledge discovery with multidimensional lossless visualizations, then apply aquired knowledge to build skills that solve difficult tasks more interpretably and accurately.  
+What is "intelligence"? According to the Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Current research goals: Aquire knowledge by visual or computational means to assist the other process to solve difficult tasks both more interpretably and accurately.  
 
 If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
 
-## Academic Peer-Reviewed Research
+## Academic Peer-Reviewed Publications
 
-During undergraduate studies:
+Research conducted during my undergraduate studies:
 
 3. Visual Representation and Feature Engineering to Classify Multidimensional Data Iteratively by Visual Knowledge Discovery
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
@@ -36,7 +34,7 @@ During undergraduate studies:
 - Topics: Synthetic Data Generation, Automated Data Labeling, General Line Coordinates, Circular Coordinates, Parallel Coordinates, Shifted Paired Coordinates, Tabular AI/ML Data, Multidimensional Data Visualization, Visual Knowledge Discovery.
 - Developed software: Dynamic_Coordinates_Vis_System
 
-_Chronologically ordered from current at top to first at bottom._
+_Chronologically ordered from current at the top to first work at the bottom._
 
 ## Research Interests
 
