@@ -13,12 +13,11 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 Research conducted during my undergraduate studies:
 
-3. Visual Representation and Feature Engineering to Classify Multidimensional Data Iteratively by Visual Knowledge Discovery
-- Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Submission preparation for IV2025.
-- Contributions: Multi-Row Parallel Coordinates for image pixel data, Collocated In-Line Coordinates
-- Topics: Representation Learning, Feature Engineering, Hyberblock Data Segmentation, Collocated Paired Coordinates, Multi-Row Parallel Coordinates, Iterative Classification, Visual Knowledge Discovery
-- Software: Continuing Java_Tabular_Vis_Toolkit, Multi_Row_Parallel_Coordinates
+3. Predicting Collatz Stopping Times Using Random Forest Regression and Abstract Machine Feature Engineering
+- Author: Alice Williams
+- Status: Preprint under review at ArXiv, submitting to Contemporary Mathematics.
+- Contributions: Modeled Collatz Conjecture stopping time function with logarithmic, random forest, and CNN regression models.
+- Topics: Regression Modeling, Mathematical Approximation, Feature Engineering
 
 2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
