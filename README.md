@@ -32,6 +32,8 @@ _Chronologically ordered from current at the top to first work at the bottom._
 
 ## Active Research
 
+Ongoing research projects:
+
 - Visual Active Learning for Iterative Classifier Refinement by Decision Node Optimization through Adaptive Data and Boundary Tuning
   - Authors: Alice Williams and Boris Kovalerchuk
   - Status: Active work.
