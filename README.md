@@ -3,9 +3,12 @@
 
 # Alice Williams
 
-Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics. Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University. Professional experience in system administration, full-stack software development, and web-development. Next, pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning. With a goal of building trustable human-in-the-loop expert artificial intelligence systems. Computing with data visualizations directly, instead of just making visuals, while integrating visual approaches with standard machine learning methods.  
+- Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics.
+- Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University.
+- Professional experience in system administration, full-stack software development, and web-development.
+- Pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning.
 
-What is "intelligence"? According to the Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Current research goals: Aquire knowledge by visual or computational means to assist the other process to solve difficult tasks both more interpretably and accurately.  
+Research Goal: With a goal of building trustable human-in-the-loop expert artificial intelligence systems. Computing with data visualizations directly, instead of just making visuals, while integrating visual approaches with standard machine learning methods.  
 
 ## Academic Peer-Reviewed Publications
 
