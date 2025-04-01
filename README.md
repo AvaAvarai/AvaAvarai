@@ -8,7 +8,7 @@
 - Professional experience in system administration, full-stack software development, and web-development.
 - Pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning.
 
-Research Goal: With a goal of building trustable human-in-the-loop expert artificial intelligence systems. Computing with data visualizations directly, instead of just making visuals, while integrating visual approaches with standard machine learning methods.  
+Research Goal: Building trustable assistive expert artificial intelligence systems. Computing with data visualizations directly, instead of just making visuals, while integrating visual approaches with standard machine learning methods.  
 
 ## Academic Peer-Reviewed Publications
 
