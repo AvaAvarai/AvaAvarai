@@ -7,8 +7,6 @@ Double Bachelor's of Science 2025 fall graduating senior student majoring in Com
 
 What is "intelligence"? According to the Oxford Dictionary, "Intelligence", noun, 1. the ability to acquire and apply knowledge and skills. Current research goals: Aquire knowledge by visual or computational means to assist the other process to solve difficult tasks both more interpretably and accurately.  
 
-If you find my work of interest or benefit, then please consider a supporting gesture through [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/avaavarai), thank you.
-
 ## Academic Peer-Reviewed Publications
 
 Research conducted during my undergraduate studies:
