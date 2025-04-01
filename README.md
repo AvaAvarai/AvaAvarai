@@ -13,12 +13,6 @@ If you find my work of interest or benefit, then please consider a supporting ge
 
 Research conducted during my undergraduate studies:
 
-3. Predicting Collatz Stopping Times Using Random Forest Regression and Abstract Machine Feature Engineering
-- Author: Alice Williams
-- Status: Preprint under review at ArXiv, submitting to Contemporary Mathematics.
-- Contributions: Modeled Collatz Conjecture stopping time function with logarithmic, random forest, and CNN regression models.
-- Topics: Regression Modeling, Mathematical Approximation, Feature Engineering
-
 2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Preprint on ArXiv. Presenting at HCII2025.
@@ -34,6 +28,19 @@ Research conducted during my undergraduate studies:
 - Developed software: Dynamic_Coordinates_Vis_System
 
 _Chronologically ordered from current at the top to first work at the bottom._
+
+## Active Research
+
+- Visual Active Learning for Iterative Classifier Refinement by Decision Node Optimization through Adaptive Data and Boundary Tuning
+  - Authors: Alice Williams and Boris Kovalerchuk
+  - Status: Active work.
+  - Topics: Machine Learning Training Set Optimization
+
+- Predicting Collatz Stopping Times Using Random Forest Regression and Abstract Machine Feature Engineering
+  - Author: Alice Williams
+  - Status: Active work.
+  - Contributions: Modeled Collatz Conjecture stopping time function with logarithmic, random forest, and CNN regression models.
+  - Topics: Regression Modeling, Mathematical Approximation, Feature Engineering
 
 ## Research Interests
 
