@@ -36,13 +36,10 @@ Ongoing research projects:
 
 - Visual Active Learning for Iterative Classifier Refinement by Decision Node Optimization through Adaptive Data and Boundary Tuning
   - Authors: Alice Williams and Boris Kovalerchuk
-  - Status: Active work.
   - Topics: Machine Learning Training Set Optimization
 
 - Predicting Collatz Stopping Times Using Random Forest Regression and Abstract Machine Feature Engineering
   - Author: Alice Williams
-  - Status: Active work.
-  - Contributions: Modeled Collatz Conjecture stopping time function with logarithmic, random forest, and CNN regression models.
   - Topics: Regression Modeling, Mathematical Approximation, Feature Engineering
 
 ## Research Interests
