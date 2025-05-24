@@ -16,7 +16,7 @@ Research conducted during my undergraduate studies:
 
 4. **Model Trust Measure through Model Sureness by Iterative Supervised Learning with Visual Knowledge Discovery**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Accepted for Electronics MDPI journal feature article.
+- Status: Approved for for Electronics MDPI journal feature article, manuscript in final stages.
 
 3. **High-Dimensional Data Classification in Concentric Coordinates**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
