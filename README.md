@@ -39,21 +39,6 @@ Research conducted during my undergraduate studies:
 
 _Chronologically ordered from current at the top to first work at the bottom._
 
-## Active Research
-
-Ongoing research projects:
-
--  Visual Representation Learning and Responsive Feature Engineering for Multidimensional Data Clustering by Visual Knowledge Discovery. For IV 2025.
-   - Authors: Alice Williams and Boris Kovalerchuk
-
-- Visual Active Learning for Iterative Classifier Refinement by Decision Node Optimization through Adaptive Data and Boundary Tuning
-  - Authors: Alice Williams and Boris Kovalerchuk
-  - Topics: Machine Learning Training Set Optimization
-
-- Predicting Collatz Stopping Times Using Random Forest Regression and Abstract Machine Feature Engineering
-  - Author: Alice Williams
-  - Topics: Regression Modeling, Mathematical Approximation, Feature Engineering
-
 ## Research Interests
 
 | Research Interest                     | Description                                                                                    |
