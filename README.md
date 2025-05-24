@@ -14,11 +14,11 @@ Research Goals: (1) Building trustable assistive expert artificial intelligence 
 
 Research conducted during my undergraduate studies:
 
-4. **["Model Trust Measure through Model Sureness by Iterative Supervised Learning with Visual Knowledge Discovery"]**
+4. **Model Trust Measure through Model Sureness by Iterative Supervised Learning with Visual Knowledge Discovery**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Accepted for Electronics MDPI journal feature article.
 
-3. **["High-Dimensional Data Classification in Concentric Coordinates"]**
+3. **High-Dimensional Data Classification in Concentric Coordinates**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Proposed to IV2025.
 - Contributions: This paper introduces Concentric Coordinates (CoC), a lossless generalization of Parallel Coordinates for high-dimensional data visualization and classification. It enables interactive tuning of axis order, scaling, and rotation to reduce occlusion and reveal structure. CoC supports visual validation of k-NN, overlap detection, and ensemble refinement, and extends to 2D planar and 3D spatial forms. The paper also proposes a Generalized Iterative Classifier (GIC) for rule-based and linear refinement in a human-in-the-loop framework.
