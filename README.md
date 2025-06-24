@@ -3,7 +3,7 @@
 
 # Alice Williams
 
-- Double Bachelor's of Science 2025 fall graduating senior student majoring in Computer Science and Applied Mathematics.
+- Double Major Bachelor's of Science 2025 graduate in Computer Science and Applied Mathematics.
 - Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University.
 - Professional experience in system administration, full-stack software development, and web-development.
 - Pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning.
