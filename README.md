@@ -14,9 +14,9 @@ Research Goals: (1) Building trustable assistive expert artificial intelligence 
 
 Research conducted during my undergraduate studies:
 
-4. **Model Trust Measure through Model Sureness by Iterative Supervised Learning with Visual Knowledge Discovery**
+4. **Quantifying AI Model Trust via Sureness Measure by Iterative Supervised Learning and Visual Knowledge Discovery**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Approved for Electronics MDPI journal feature article, manuscript in final copyediting stages.
+- Status: Submitted for MDPI Electronics special issue on Advances in Data Mining and Its Applications feature article, in review
 
 3. **High-Dimensional Data Classification in Concentric Coordinates**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
