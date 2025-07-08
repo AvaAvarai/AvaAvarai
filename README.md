@@ -18,7 +18,7 @@ Research conducted during my undergraduate studies:
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
 - Status: Submitted for MDPI Electronics special issue on Advances in Data Mining and Its Applications feature article, in review.
 - Contributions: This paper introduces a new metric—**Model Sureness**—to quantify machine learning model trust through iterative supervised learning (ISL) and visual knowledge discovery (VKD). It formalizes minimal and maximal bounds on training data sufficiency and defines a Bidirectional Active Supervised Learning (BASL) process to iteratively reduce training data while maintaining classifier accuracy. The method successfully eliminates up to 80% of noisy or redundant data while preserving performance, improving interpretability and deployment efficiency. Demonstrated across Fisher Iris, Wisconsin Breast Cancer, and MNIST datasets, including reduction of MNIST training data to 4.17% of its original size while retaining 95% CNN accuracy.
-- Topics: Model Trust, Iterative Supervised Learning, Visual Knowledge Discovery, Minimal Training Subset, Data Reduction, Human-in-the-Loop ML
+- Topics: Model Sureness, Iterative Supervised Learning, Visual Knowledge Discovery
 - Developed software: [IterativeSurenessTester](https://github.com/CWU-VKD-LAB/IterativeSurenessTester)
 
 3. **High-Dimensional Data Classification in Concentric Coordinates**
