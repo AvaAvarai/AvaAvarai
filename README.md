@@ -3,7 +3,7 @@
 
 # Alice Williams
 
-- Bachelor of Science, 2025 — Double Major in Computer Science and Applied Mathematics.
+- Bachelor of Science in Computer Science and Applied Mathematics, Graduated with Magna Cum Laude honors.
 - Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University.
 - Professional experience in system administration, full-stack software development, and web-development.
 - Pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning.
@@ -16,11 +16,11 @@ Research conducted during my undergraduate studies:
 
 4. **Quantifying AI Model Trust via Sureness Measure by Iterative Supervised Learning and Visual Knowledge Discovery**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Submitted for MDPI Electronics special issue on Advances in Data Mining and Its Applications feature article, in review
+- Status: Submitted for MDPI Electronics special issue on Advances in Data Mining and Its Applications feature article, in review.
 
 3. **High-Dimensional Data Classification in Concentric Coordinates**
 - Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Passed peer-review for IV2025, preparing camera ready version.
+- Status: Accepted, preparing camera ready version.
 - Contributions: This paper introduces Concentric Coordinates (CoC), a lossless generalization of Parallel Coordinates for high-dimensional data visualization and classification. It enables interactive tuning of axis order, scaling, and rotation to reduce occlusion and reveal structure. CoC supports visual validation of k-NN, overlap detection, and ensemble refinement, and extends to 2D planar and 3D spatial forms. The paper also proposes a Generalized Iterative Classifier (GIC) for rule-based and linear refinement in a human-in-the-loop framework.
 
 2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
