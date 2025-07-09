@@ -71,5 +71,4 @@ _Note: Areas listed in no particular order._
 ## Let's Connect
 
 Open to collaboration, research, or new opportunities.  
-Best way to reach me: email.
-
+📬 [alice.williams.tech@gmail.com](mailto:alice.williams.tech@gmail.com)
