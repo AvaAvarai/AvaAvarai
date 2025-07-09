@@ -1,74 +1,75 @@
 **"I believe in intuition and inspiration. Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution. It is, strictly speaking, a real factor in scientific research.”**  
-― _Albert Einstein 1929, quoted by Dr. Boris Kovalerchuk in Visual Knowledge Discovery and Machine Learning 2018._  
-
+— _Albert Einstein, 1929_  
+_Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Learning* (2018)
 # Alice Williams
 
-- Bachelor of Science in Computer Science and Applied Mathematics, Graduated with Magna Cum Laude honors.
-- Active research assistant at the Visual Knowledge Discovery and Imaging Lab of Central Washington University.
-- Professional experience in system administration, full-stack software development, and web-development.
-- Pursuing graduate studies in Computer Science to further research on visual-computational hybrid machine learning.
+- Bachelor of Science in Computer Science and Applied Mathematics, Magna Cum Laude  
+- Research Assistant at the Visual Knowledge Discovery and Imaging Lab (CWU)  
+- Incoming graduate student at Western Washington University (WWU) in Computer Science  
+- Professional experience in system administration, full-stack software, and web development  
+- Focused on visual-computational hybrid machine learning and interpretable AI systems
 
-Research Goals: (1) Building trustable assistive expert artificial intelligence systems. (2) Computing with data visualizations directly, instead of just post hoc. (3) Integrating visual approaches with standard machine learning methods.  
+**Research Goals:**  
+1. Build trustable, assistive expert AI systems  
+2. Compute directly with data visualizations—not just explain models post hoc  
+3. Integrate visual and standard machine learning methods for interpretable intelligence
 
 ## Academic Peer-Reviewed Publications
 
-Research conducted during my undergraduate studies:
+Research completed during undergraduate studies:
 
-4. **["Quantifying AI Model Trust via Sureness Measure by Iterative Supervised Learning and Visual Knowledge Discovery"](https://www.preprints.org/manuscript/202507.0586/v1)**
-- Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Submitted for MDPI Electronics special issue on Advances in Data Mining and Its Applications feature article, in review.
-- Contributions: This paper introduces a new metric—**Model Sureness**—to quantify machine learning model trust through iterative supervised learning (ISL) and visual knowledge discovery (VKD). It formalizes minimal and maximal bounds on training data sufficiency and defines a Bidirectional Active Supervised Learning (BASL) process to iteratively reduce training data while maintaining classifier accuracy. The method successfully eliminates up to 80% of noisy or redundant data while preserving performance, improving interpretability and deployment efficiency. Demonstrated across Fisher Iris, Wisconsin Breast Cancer, and MNIST datasets, including reduction of MNIST training data to 4.17% of its original size while retaining 95% CNN accuracy.
-- Topics: Model Sureness, Iterative Supervised Learning, Visual Knowledge Discovery
-- Developed software: [IterativeSurenessTester](https://github.com/CWU-VKD-LAB/IterativeSurenessTester)
+**4. [Quantifying AI Model Trust via Sureness Measure](https://www.preprints.org/manuscript/202507.0586/v1)**  
+_Submitted to MDPI Electronics (feature article, in review)_  
+Proposes **Model Sureness** to measure trust in ML models using iterative supervised learning and visual knowledge discovery.  
+- Demonstrated 80% training data reduction with retained performance  
+- Tools: [IterativeSurenessTester](https://github.com/CWU-VKD-LAB/IterativeSurenessTester)
 
-3. **High-Dimensional Data Classification in Concentric Coordinates**
-- Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Accepted, preparing camera ready version.
-- Contributions: This paper introduces Concentric Coordinates (CoC), a lossless generalization of Parallel Coordinates for high-dimensional data visualization and classification. It enables interactive tuning of axis order, scaling, and rotation to reduce occlusion and reveal structure. CoC supports visual validation of k-NN, overlap detection, and ensemble refinement, and extends to 2D planar and 3D spatial forms. The paper also proposes a Generalized Iterative Classifier (GIC) for rule-based and linear refinement in a human-in-the-loop framework.
+**3. High-Dimensional Data Classification in Concentric Coordinates**  
+_Accepted at IEEE IV2025 (camera-ready in progress)_  
+Introduces **Concentric Coordinates (CoC)** — a lossless generalization of parallel coordinates for interpretable high-dimensional classification.  
+- Proposes the **Generalized Iterative Classifier (GIC)**  
+- Supports tunable rotation, scaling, and axis order
+- Tools: [Java_Tabular_Vis_Toolkit](https://github.com/AvaAvarai/Java_Tabular_Vis_Toolkit)
 
-2. **["Boosting of Classification Models with Human-in-the-Loop Computational Visual Knowledge Discovery"](https://arxiv.org/abs/2502.07039)**
-- Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Preprint on ArXiv. Presenting at HCII2025.
-- Contributions: Introduces the Computational and Interactive Visual Learning (CIVL) framework, integrating human-in-the-loop visualization and computational techniques to improve classification model boosting, particularly in class-overlapping areas, by separating simple and complex cases, leveraging interpretable decision rules, and enhancing classifier accuracy and explainability through lossless multidimensional visualizations like Parallel Coordinates and General Line Coordinates (GLCs). This improves classification model boosting, particularly in class-overlapping areas, by separating simple and complex cases, leveraging interpretable decision rules, and enhancing classifier accuracy and explainability through lossless multidimensional visualizations achieving 100% accuracy on the Fisher Iris data with significantly fewer parameters than AdaBoost, which won the 2003 Gödel Prize, reducing the risk of overfitting by maintaining a high case-to-parameter ratio while offering enhanced interpretability.
-- Topics: Visual Knowledge Discovery, Classification Model Boosting, Interpretable Machine Learning, Human-in-the-Loop, Lossless Visualization
-- Developed software: Java_Tabular_Vis_Toolkit, HyperblockParser, InLineCoordinatesCoefficientSolver
+**2. [Boosting Classification Models with Human-in-the-Loop VKD](https://arxiv.org/abs/2502.07039)**  
+_Presented at HCII2025, published in Springer LNAI series_  
+Presents the **CIVL** framework combining visual analysis and computational methods to improve classifier performance and explainability.  
+- Matches AdaBoost accuracy with far fewer parameters  
+- Tools: [Java_Tabular_Vis_Toolkit](https://github.com/AvaAvarai/Java_Tabular_Vis_Toolkit), HyperblockParser, InLineCoordinatesCoefficientSolver
 
-1. **["Synthetic Data Generation and Automated Multidimensional Data Labeling for AI/ML in General and Circular Coordinates"](https://arxiv.org/abs/2409.02079)**
-- Authors: Alice Williams & Dr. Boris Kovalerchuk.
-- Status: Published in IEEE proceedings and presented at IV2024 in track of Artificial Intelligence and Visual Knowledge Discovery, earned the 'Best Paper Award'.
-- Contributions: Proposed an algorithm and implemented interactive software for labeled synthetic data generation using former General Line Coordinate methods and newly developed Circular Coordinates both Static and Dynamic with multi-class visualization and parameterized class discrimination. Addressed data balancing, demonstrated deficiencies of popular SMOTE (Synthetic Minority Oversampling Technique), and showed improvements to classifier performance across 14 standard machine learning classifiers.
-- Topics: Synthetic Data Generation, Automated Data Labeling, General Line Coordinates, Circular Coordinates, Parallel Coordinates, Shifted Paired Coordinates, Tabular AI/ML Data, Multidimensional Data Visualization, Visual Knowledge Discovery.
-- Developed software: Dynamic_Coordinates_Vis_System
+**1. [Synthetic Data Generation in Circular Coordinates](https://arxiv.org/abs/2409.02079)**  
+_Published in IEEE IV2024, Best Paper Award_  
+Proposes static and dynamic circular coordinate systems for labeled synthetic data generation.  
+- Outperforms SMOTE across 14 classifiers  
+- Tools: [Dynamic_Coordinates_Vis_System](https://github.com/CWU-VKD-LAB/Dynamic_Coordinates_Vis_System)
 
-_Chronologically ordered from current at the top to first work at the bottom._
+_Ordered from most recent to earliest._
 
 ## Research Interests
 
-| Research Interest                     | Description                                                                                    |
-|---------------------------------------|------------------------------------------------------------------------------------------------|
-| Visual Machine Learning               | Building machine learning models with visual representations for better interpretability.      |
-| Visual Knowledge Discovery            | Extracting patterns visually from multidimensional data to solve a task like machine learning. |
-| Data Mining                           | Extracting valuable information from large sample count and dimensionality of data.            |
-| Multidimensional Data Visualization   | Representing multidimensional data in representations advantageous for the task to solve.      |
-| Natural Language Processing           | Analyzing and generating human language for human-computer interaction or computation.         |
-| Automated Decision-Making             | Developing and analyzing automated decision-making systems for limited human interaction.      |
-| Human-Computer Interaction            | Designing effective human-computer interaction using visually interactive interfaces.          |
+- **Visual Machine Learning** — Designing ML models that are interpretable through direct visual representation.  
+- **Visual Knowledge Discovery** — Discovering patterns in high-dimensional data using interactive visual methods.  
+- **Data Mining** — Extracting meaningful structure from large, complex datasets.  
+- **Multidimensional Data Visualization** — Creating visual representations that preserve structure across dimensions.  
+- **Natural Language Processing** — Computational understanding and generation of human language.  
+- **Automated Decision-Making** — Building systems that reason and act with minimal human input.  
+- **Human-Computer Interaction** — Developing interactive interfaces for interpretable AI and user-in-the-loop learning.
 
-_In no preferential order._
+_Note: Areas listed in no particular order._
 
 ## Technical Experience
 
-| Role                                         | Organization                                     | Focus/Description                                                                                                             |
-|----------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| **Startup Founder and Consultant (Active)**  | AI Education Technology Stealth Startup LLCs     | Small business founding, startup product development, market research, and additionally, I provide AI and ML consulting.      |
-| **Research Assistant (Active)**              | CWU Visual Knowledge Discovery and Imaging Lab   | Researching Visual Knowledge Discovery and Machine Learning data classification, synthesization, and model interpretability.  |
-| **Teaching Assistant**                       | CWU Computer Science and Mathematics Departments | Assisted in Computer Architecture, Algorithm Analysis, Mathematical Computing, and as an undergraduate CS Tutor.              |
-| **Web Developer**                            | Freelance Sole-Proprietor Business               | Supported individuals and small businesses in developing, updating, and maintaining web applications and websites.            | 
-| **Full-Stack Software Developer**            | Contract Projects and Freelance Business         | Delivered data processing automation and business solutions for individuals, small businesses, and an enterprise contract.    |
-| **Linux Game Server Administrator**          | Game Server Distributor and Management LLCs      | Responsible for server sharding, setup, protection, updates, backup solutions, user registration, and software support.       |
+- **Startup Founder & Consultant** — AI EdTech product design, research translation, and ML consulting for stealth-mode startups.  
+- **Research Assistant** — Visual Knowledge Discovery Lab (CWU); focused on interpretable ML, data synthesis, and classifier refinement.  
+- **Teaching Assistant** — Courses: Computer Architecture, Algorithms, Mathematical Computing, and CS tutoring.  
+- **Full-Stack Developer** — Freelance + contract projects in data automation, business tooling, and web systems.  
+- **Web Developer** — Built and maintained websites for individuals and small businesses.  
+- **Linux Game Server Admin** — Managed backend infrastructure for distributed gaming services (sharding, uptime, user auth, backups).
 
-See my [CV](https://avaavarai.github.io/Avarai_CV/) for more details.
+[CV available here →](https://avaavarai.github.io/Avarai_CV/)
 
 ## Let's Connect
 
-I'm always open to discussing new projects or opportunities. Feel free to reach out or connect with me! The best means is email.
+Open to collaboration, research, or new opportunities.  
+Best way to reach me: email.
+
