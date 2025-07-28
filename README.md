@@ -19,7 +19,7 @@ _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Lea
 Research completed during undergraduate studies:
 
 **4. [Quantifying AI Model Trust via Sureness Measure](https://www.preprints.org/manuscript/202507.0586/v1)**  
-_Submitted to MDPI Electronics (feature article, in review)_  
+_In rework process_
 Proposes **Model Sureness** to measure trust in ML models using iterative supervised learning and visual knowledge discovery.  
 - Demonstrated 80% training data reduction with retained performance  
 - Tools: [IterativeSurenessTester](https://github.com/CWU-VKD-LAB/IterativeSurenessTester)
