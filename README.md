@@ -3,7 +3,7 @@
 _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Learning* (2018)
 # Alice Williams
 
-- Bachelor of Science in Computer Science and Applied Mathematics, Magna Cum Laude  
+- Bachelor of Science in Computer Science and Applied Mathematics (CWU), Magna Cum Laude  
 - Research Assistant at the Visual Knowledge Discovery and Imaging Lab (CWU)  
 - Masters student at Western Washington University (WWU) in Computer Science  
 - Professional experience in system administration, full-stack software, and web development  
@@ -19,13 +19,13 @@ _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Lea
 Research completed during undergraduate studies:
 
 **4. [Quantifying AI Model Trust via Sureness Measure](https://www.preprints.org/manuscript/202507.0586/v1)**  
-_In rework process_
+_In peer-review response process_
 Proposes **Model Sureness** to measure trust in ML models using iterative supervised learning and visual knowledge discovery.  
 - Demonstrated 80% training data reduction with retained performance  
 - Tools: [IterativeSurenessTester](https://github.com/CWU-VKD-LAB/IterativeSurenessTester)
 
 **3. High-Dimensional Data Classification in Concentric Coordinates**  
-_Accepted at IEEE IV2025 (camera-ready in progress)_  
+_Presented at IEEE IV2025_  
 Introduces **Concentric Coordinates (CoC)** — a lossless generalization of parallel coordinates for interpretable high-dimensional classification.  
 - Proposes the **Generalized Iterative Classifier (GIC)**  
 - Supports tunable rotation, scaling, and axis order
