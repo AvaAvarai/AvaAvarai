@@ -5,14 +5,14 @@ _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Lea
 
 - Bachelor of Science in Computer Science and Applied Mathematics, Magna Cum Laude  
 - Research Assistant at the Visual Knowledge Discovery and Imaging Lab (CWU)  
-- Incoming graduate student at Western Washington University (WWU) in Computer Science  
+- Masters student at Western Washington University (WWU) in Computer Science  
 - Professional experience in system administration, full-stack software, and web development  
 - Focused on visual-computational hybrid machine learning and interpretable AI systems
 
 **Research Goals:**  
 1. Build trustable, assistive expert AI systems  
-2. Compute directly with data visualizations—not just explain models post hoc  
-3. Integrate visual and standard machine learning methods for interpretable intelligence
+2. Compute directly with data visualizations  
+3. Integrate visual and standard machine learning methods for interpretable AI  
 
 ## Academic Peer-Reviewed Publications
 
