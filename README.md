@@ -66,7 +66,7 @@ _Note: Areas listed in no particular order._
 - **Web Developer** — Built and maintained websites for individuals and small businesses.  
 - **Linux Game Server Admin** — Managed backend infrastructure for distributed gaming services (sharding, uptime, user auth, backups).
 
-[CV available here →](https://avaavarai.github.io/Avarai_CV/)
+[CV available here →](https://avaavarai.github.io/Alice_Williams_CV/)
 
 ## Let's Connect
 
