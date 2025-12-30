@@ -3,11 +3,11 @@
 _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Learning* (2018)
 # Alice Williams
 
-- Bachelor's of Science in Computer Science and Applied Mathematics (CWU), Magna Cum Laude honors (2025)  
+- Dual Bachelor's of Science in Computer Science and Applied Mathematics (CWU), Magna Cum Laude honors (2025)  
 - Research Assistant at the Visual Knowledge Discovery and Imaging Lab (CWU) (2023 - Present)  
-- Masters student at Western Washington University (WWU) in Computer Science (2025 - Present)  
-- Professional experience in system administration, full-stack software, and web development  
-- Focused on visual-computational hybrid machine learning and interpretable AI systems
+- Masters student in Computer Science at Western Washington University (WWU) (2025 - Present)  
+- Professional experience in system administration, full-stack software and web development  
+- Research focus on visual-computational hybrid machine learning and interpretable AI systems
 
 **Research Goals:**  
 1. Build trustable, assistive expert AI systems  
