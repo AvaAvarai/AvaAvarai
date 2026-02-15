@@ -3,10 +3,10 @@
 _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Learning* (2018)
 # Alice Williams
 
-- Dual Bachelor's of Science in Computer Science and Applied Mathematics (CWU), Magna Cum Laude honors (2025)  
-- Research Assistant at the Visual Knowledge Discovery and Imaging Lab (CWU) (2023 - Present)  
+- Bachelor's of Science in Computer Science and Applied Mathematics double major (CWU), Magna Cum Laude honors (2025)  
+- Research Assistant at the Visual Knowledge Discovery and Imaging Lab (CWU) (2023 - 2025)  
 - Masters student in Computer Science at Western Washington University (WWU) (2025 - Present)  
-- Professional experience in system administration, full-stack software and web development  
+- Professional experience in system administration, web development, and full-stack software 
 - Research focus on visual-computational hybrid machine learning and interpretable AI systems
 
 **Research Goals:**  
@@ -16,13 +16,15 @@ _Quoted by Dr. Boris Kovalerchuk in_ *Visual Knowledge Discovery and Machine Lea
 
 ## Academic Peer-Reviewed Publications
 
-Research completed during undergraduate studies:
+Research finished during graduate studies:
 
 **4. [Quantifying AI Model Trust as a Model Sureness Measure by Bidirectional Active Learning & Visual Knowledge Discovery](https://www.preprints.org/manuscript/202507.0586)**  
-_In peer-review response process_
-Proposes **Model Sureness** to measure trust in ML models using iterative supervised learning and visual knowledge discovery.  
+_Published in MDPI Electronics in the Special Issue Women's Special Issue Series: Artificial Intelligence_  
+Proposes **Model Sureness** to measure trust as a function of reliability for ML model prediction accuracy on given data using iterative supervised learning and visual knowledge discovery.  
 - Demonstrated removal of unnecessary training data cases was from 20% to 80% and on average about 50% of training data.
 - Tools: [IterativeSurenessTester](https://github.com/CWU-VKD-LAB/IterativeSurenessTester)
+
+Research completed during undergraduate studies:
 
 **3. High-Dimensional Data Classification in Concentric Coordinates**  
 _Presented at IEEE IV2025_  
@@ -32,13 +34,13 @@ Introduces **Concentric Coordinates (CoC)** — a lossless generalization of par
 - Tools: [Java_Tabular_Vis_Toolkit](https://github.com/AvaAvarai/Java_Tabular_Vis_Toolkit)
 
 **2. [Boosting Classification Models with Human-in-the-Loop VKD](https://arxiv.org/abs/2502.07039)**  
-_Presented at HCII2025, published in Springer LNAI series_  
+_Presented at HCII2025, published in Springer's Lecture Notes on Artificial Intelligence series_  
 Presents the **CIVL** framework combining visual analysis and computational methods to improve classifier performance and explainability.  
 - Matches AdaBoost accuracy with far fewer parameters  
 - Tools: [Java_Tabular_Vis_Toolkit](https://github.com/AvaAvarai/Java_Tabular_Vis_Toolkit), HyperblockParser, InLineCoordinatesCoefficientSolver
 
 **1. [Synthetic Data Generation in Circular Coordinates](https://arxiv.org/abs/2409.02079)**  
-_Published in IEEE IV2024, Best Paper Award_  
+_Presented at IEEE IV2024, published in IEEE conference proceedings, awarded a Best Paper Award_  
 Proposes static and dynamic circular coordinate systems for labeled synthetic data generation.  
 - Outperforms SMOTE across 14 classifiers  
 - Tools: [Dynamic_Coordinates_Vis_System](https://github.com/CWU-VKD-LAB/Dynamic_Coordinates_Vis_System)
