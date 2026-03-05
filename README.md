@@ -1,6 +1,6 @@
 # Welcome
 
-Howdy visitor, its a pleasure to see you here. I’m Alice Williams, a technologist and trans woman from Texas, now based in Washington State. Welcome to my corner of GitHub, where I document and share work not under private licensing.  
+Howdy visitor, it's a pleasure to see you here. I’m Alice Williams, a technologist and trans woman from Texas, now based in Washington State. Welcome to my corner of GitHub, where I document and share work not under private licensing.  
 
 My work focuses on interpretable machine learning, visual knowledge discovery, and human–AI collaborative systems, with the vision of building AI that thinks visibly and reasons transparently to assist human judgment rather than replace it, while sharing this work openly and learning from others.  
 
