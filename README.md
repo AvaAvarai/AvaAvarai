@@ -1,8 +1,14 @@
-# Welcome
+# Welcome Friend
 
-Howdy visitor, it's a pleasure to see you here. I’m Alice Williams, a technologist and trans woman from Texas, now based in Washington State. Welcome to my corner of GitHub, where I document and share work not under private licensing.  
+I’m Alice Williams.
 
-My work focuses on interpretable machine learning, visual knowledge discovery, and human–AI collaborative systems, with the vision of building AI that thinks visibly and reasons transparently to assist human judgment rather than replace it, while sharing this work openly and learning from others.  
+I’m a full stack software engineer, technologist, entrepreneur, author, and mathematician driven by a simple idea: break complex systems down to their fundamentals, understand them deeply, then rebuild them better.
+
+I’ve been coding and exploring systems since I was young, fixing, optimizing, and creating along the way. I started in the Dallas–Fort Worth area from 1993 to 2020, where I built a business and launched two startups. From 2020 to 2025, I moved to Ellensburg, Washington, earning a degree in Computer Science and Applied Mathematics while teaching, conducting research, and publishing several works. Along the way, I took additional coursework purely out of curiosity, ranging from prospect theory to computational algebraic geometry, followed by time in graduate programs before returning to focus fully on my own ventures.
+
+This GitHub is a collection of my academic, experimental, and research driven projects. My production work and newer systems live within my startup.
+
+My work focuses on interpretable machine learning, visual knowledge discovery, and human–AI collaborative systems. The goal is to build AI that reasons transparently and supports human judgment rather than replacing it, while sharing that work openly and learning from others.
 
 _This is a living document of my work and provides more context than my formal CV._
 
